@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "250e21bfbf46945c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a42cfff367a3783a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69ad38ec9683d347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache Airflow/Apache Airflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2e79cb0c1f521ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache Airflow/Production Pipelines in Airflow/Production Pipelines in Airflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fb026ae98c1056a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "de2031a3f2e35a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache Airflow/Production Pipelines in Airflow/Branching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18caf7c78144f494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache Airflow/Production Pipelines in Airflow/Airflow Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72f79c3b004f0acd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba6732f08b661940",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d20df7abb439335c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "efe9c8c629ad4d38",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79fec475eb65bf15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Apache Airflow/Production Pipelines in Airflow/Branching.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "de2031a3f2e35a2b",
+  "lastOpenFiles": [
+    "Apache Airflow/Production Pipelines in Airflow/Airflow Templates.md",
+    "Apache Airflow/Production Pipelines in Airflow/Airflow Variables.md",
+    "Apache Airflow/Production Pipelines in Airflow/Production Pipelines in Airflow.md",
+    "Apache Airflow/Apache Airflow.md",
+    "Apache Airflow/Maintaining and monitoring Airflow Workflows/SLAs and Reporting in Airflow.md",
+    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Debugging and troubleshooting in Airflow.md",
+    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Airflow Sensors.md",
+    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Airflow Executors.md",
+    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Maintaining and monitoring Airflow workflows.md",
+    "Apache Airflow/Implementing Airflow DAGs/Airflow Scheduling.md"
+  ]
+}
