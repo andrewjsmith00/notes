@@ -1,6 +1,6 @@
 # AWS Data Stores
 ## Amazon [[S3]]
-Amazon [[S3]] is unlimited object data storage of any time. Go to place to store machine learning data. The core ML services will integrate directly with S3.
+Amazon [[S3]] is unlimited object data storage of any time. Go to place to store [[machine learning]] data. The core ML services will integrate directly with S3.
 
 ## Amazon [[RDS]]
 Relational Database Service. Fully managed relational database with different engine types available.

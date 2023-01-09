@@ -11,11 +11,76 @@
             "id": "e3f21dcac206762f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2458d814212bd7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/PyTorch/PyTorch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a00f58b4c3cc250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Deep Learning/Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4374196f380bfed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Limitations of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb76a72d432f6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd2f69de277b61ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Validation and Test Sets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,12 +138,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Validation and Test Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -87,19 +153,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e3f21dcac206762f",
+  "active": "cd2f69de277b61ef",
   "lastOpenFiles": [
-    "Apache Airflow/Apache Airflow.md",
-    "Machine Learning Specialty/Data Preparation/Data Preparation.md",
-    "Machine Learning Specialty/Data Preparation/Categorical Encoding.md",
-    "Definitions/Bash.md",
-    "Analytics/EMR/EMR.md",
-    "Machine Learning Specialty/Data Preparation/Handling Missing Values.md",
-    "Machine Learning Specialty/Data Preparation/Feature Engineering.md",
-    "Machine Learning Specialty/Data Preparation/Data Preparation Concepts.md",
-    "Machine Learning Specialty/Data Collection/Data Collection.md",
-    "Machine Learning Specialty/Machine Learning Data Terminology.md"
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Overfitting.md",
+    "Machine Learning/Limitations of Machine Learning.md",
+    "Machine Learning/PyTorch/PyTorch.md",
+    "Machine Learning/Deep Learning/Deep Learning.md",
+    "Networking/VPN.md",
+    "Scala/Scala.md",
+    "Machine Learning/Machine Learning Terminology/Regression.md",
+    "Machine Learning/Machine Learning Terminology/Multi Class Classification.md",
+    "Machine Learning/Machine Learning Terminology/Binary Classification.md"
   ]
 }

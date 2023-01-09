@@ -1,4 +1,4 @@
-# Directed Acyclic Graph
+
 
 A DAG ([[Directed Acylic Graph]]) is:
 - Directed. There is a flow representing dependencies between components

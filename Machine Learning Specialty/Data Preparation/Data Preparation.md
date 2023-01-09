@@ -3,7 +3,7 @@ There is always some cleaning that needs to be done before feeding it into a [[M
 
 Before we can clean the data, we need to understand the data.
 
-Data preparation is the process of transforming a dataset using different techniques to prepare it for [[Model Training]] and testing. In essence, we change the dataset so it is ready for machine learning.
+Data preparation is the process of transforming a dataset using different techniques to prepare it for [[Model Training]] and testing. In essence, we change the dataset so it is ready for [[machine learning]].
 
 If we feed a model unprepared data, it will not be good.
 

@@ -1,4 +1,4 @@
-# Machine Learning Data Terminology
+# [[Machine Learning]] Data Terminology
 ## Labeled data
 Data where we know what the target value is
 

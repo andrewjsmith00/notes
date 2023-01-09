@@ -1,5 +1,5 @@
 # Amazon EMR
-Amazon EMR provides a managed [[Apache Hadoop]] framework. You can run many popular distributed frameworks like [[Apache Spark]], [[Apache Flink]], [[Apache Hive]] and more. You can use it to perform log analysis, web indexing, ETL, machine learning and more.
+Amazon EMR provides a managed [[Apache Hadoop]] framework. You can run many popular distributed frameworks like [[Apache Spark]], [[Apache Flink]], [[Apache Hive]] and more. You can use it to perform log analysis, web indexing, ETL, [[machine learning]] and more.
 
 EMR offers a rich ecosystem of libraries and other services for [[SQL]], notebooks, processing and more.
 

@@ -1,4 +1,4 @@
-# Implementing Airflow DAGs
+# Implementing [[Airflow DAGs]]
 
 ## [[Airflow Operators]]
 ## [[Airflow Tasks]]

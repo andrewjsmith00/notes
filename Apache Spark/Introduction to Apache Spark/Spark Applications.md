@@ -19,4 +19,4 @@ Overall, the key points to understand are:
 - Spark employs a cluster manager to keep track of resources
 - The driver is responsible for executing the driver program's commands across executors.
 
-The executors will mostly be running Spark code. However, the driver can be driven from a number of languages through Spark's language APIs.
+The executors will mostly be running Spark code. However, the driver can be driven from a number of languages through [[Spark's language APIs]].

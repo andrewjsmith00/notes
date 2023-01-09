@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apache Airflow/Production Pipelines in Airflow/Branching.md",
+                "file": "Machine Learning Specialty/Data Preparation/Feature Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apache Airflow/Production Pipelines in Airflow/Branching.md",
+            "file": "Machine Learning Specialty/Data Preparation/Feature Selection.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "de2031a3f2e35a2b",
   "lastOpenFiles": [
-    "Apache Airflow/Production Pipelines in Airflow/Airflow Templates.md",
-    "Apache Airflow/Production Pipelines in Airflow/Airflow Variables.md",
-    "Apache Airflow/Production Pipelines in Airflow/Production Pipelines in Airflow.md",
-    "Apache Airflow/Apache Airflow.md",
-    "Apache Airflow/Maintaining and monitoring Airflow Workflows/SLAs and Reporting in Airflow.md",
-    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Debugging and troubleshooting in Airflow.md",
-    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Airflow Sensors.md",
-    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Airflow Executors.md",
-    "Apache Airflow/Maintaining and monitoring Airflow Workflows/Maintaining and monitoring Airflow workflows.md",
-    "Apache Airflow/Implementing Airflow DAGs/Airflow Scheduling.md"
+    "Machine Learning Specialty/Data Preparation/Principal Component Analysis.md",
+    "Machine Learning Specialty/Data Preparation/Feature Selection.md",
+    "Machine Learning Specialty/Data Preparation/Handling Missing Values.md",
+    "Machine Learning Specialty/Data Preparation/Untitled.md",
+    "Machine Learning Specialty/Data Preparation/Feature Engineering.md",
+    "Machine Learning/SageMaker/Training/SageMaker Input Modes.md",
+    "Machine Learning Specialty/Data Preparation/Numeric Feature Engineering.md",
+    "Machine Learning Specialty/Data Preparation/Text Feature Engineering.md",
+    "Machine Learning Specialty/Data Preparation/TF-IDF.md",
+    "Machine Learning Specialty/Data Preparation/Categorical Encoding 2.md"
   ]
 }
