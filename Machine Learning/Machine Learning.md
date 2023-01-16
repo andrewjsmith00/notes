@@ -1,8 +1,7 @@
-# Machine Learning
 Developing an algorithm to learn results based off of trained data.
 
 
-Machine learning is a discipline where a program is defined not by writing it, but by learning from data. [[Deep Learning]] is a speciality within this where [[neural networks]] are used with multiple layers. 
+Machine learning is a discipline where a program is defined not by writing it, but by learning from data. [[Deep Learning]] is a speciality within this where [[Neural Networks]] are used with multiple layers. 
 
 The goal is to produce a program, called a model that given an image will make an accurate prediction based on what the image is.
 

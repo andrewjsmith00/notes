@@ -1,0 +1,1 @@
+Amazon Athena is a way to run [[SQL]] queries on your [[Glue Data Catalog]]s or [[S3]] data. This allows you to do any SQL-like transforms on your data as required.

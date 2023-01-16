@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 3172830
       }
+    },
+    {
+      "query": "path:Analytics",
+      "color": {
+        "a": 1,
+        "rgb": 6699716
+      }
+    },
+    {
+      "query": "path:\"Apache Airflow\"",
+      "color": {
+        "a": 1,
+        "rgb": 247763
+      }
     }
   ],
   "collapse-display": true,
@@ -27,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.695379273504274,
+  "collapse-forces": false,
+  "centerStrength": 0.662272135416667,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 311,
-  "scale": 0.6881679634492766,
+  "linkDistance": 89,
+  "scale": 1.8028651213896107,
   "close": true
 }

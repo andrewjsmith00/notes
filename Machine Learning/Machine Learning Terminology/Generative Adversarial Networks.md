@@ -1,0 +1,1 @@
+This is where you have two competing [[Neural Networks]] where one is trying to generate fake data to fool the second. The second network tries to discriminate artificial data from the real data. Over time, both networks get better at their tasks by capturing subtleties in the dataset.
