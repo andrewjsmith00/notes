@@ -21,5 +21,5 @@ flowchart RL
 	Environment -- Observations --> Agent
 	
 ```
-
+## [[Values, State and Optimality]]
 

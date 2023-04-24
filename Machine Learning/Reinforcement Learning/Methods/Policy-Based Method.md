@@ -1,0 +1,1 @@
+These methods try to approximate the policy of the agent, or what action an agent should take at each step. The policy is usually represented by a probability distribtion over the available actions.

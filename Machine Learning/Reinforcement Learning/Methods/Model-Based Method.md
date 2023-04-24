@@ -1,0 +1,1 @@
+These types of methods will try to predict what the next observation and/or reward will be. Based on this, the agent tries to choose the best possible actions to take, often making predictions multiple times to look more and more steps into the future

@@ -1,0 +1,1 @@
+With this method, the agent tries to calculate the value of every possible action and chooses the action with the best value.

@@ -4,91 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cbe07aa0a67c72e9",
+        "id": "9a44a38a62918f51",
         "type": "tabs",
         "children": [
           {
-            "id": "060bed115349ead9",
+            "id": "54b9518689526d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Reinforcement Learning.md",
+                "file": "Machine Learning/Reinforcement Learning/Values, State and Optimality.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08973bf8682886fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning Terminology/Supervised Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d243f10a2c1e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Reinforcement Learning/Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a81cfebf20b630",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "961c7c424e45ef77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Reinforcement Learning/Markov Decision Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0a5c78e1b96213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Reinforcement Learning/Markov Decision Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f6bd5f84ce2303c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Reinforcement Learning/Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a75245e6bb718167",
+            "id": "df7dc6d677f737a7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -96,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,14 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Reinforcement Learning/Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -169,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,17 +112,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6f6bd5f84ce2303c",
+  "active": "df7dc6d677f737a7",
   "lastOpenFiles": [
-    "Machine Learning/Reinforcement Learning/Markov Decision Process.md",
+    "Untitled.canvas",
+    "Machine Learning/Data Visualisation/Relationships.md",
     "Machine Learning/Reinforcement Learning/Reinforcement Learning.md",
-    "Machine Learning/Reinforcement Learning/Markov Reward Process.md",
-    "Machine Learning/Reinforcement Learning/Markov Process.md",
-    "Machine Learning/Reinforcement Learning/Entities in Reinforcement Learning.md",
-    "Machine Learning/Machine Learning Terminology/Generative Adversarial Networks.md",
-    "Machine Learning/Machine Learning Terminology/Unsupervised Learning.md",
-    "Machine Learning/Machine Learning Terminology/Supervised Learning.md",
-    "Machine Learning/Data Preparation/One-hot Encoding.md",
-    "Machine Learning/Data Preparation/TF-IDF.md"
+    "Machine Learning/Reinforcement Learning/Values, State and Optimality.md",
+    "Machine Learning/Reinforcement Learning/Bellman Equation of Optimality.md",
+    "Machine Learning/Reinforcement Learning/Methods/Cross-Entropy Method.md",
+    "Machine Learning/Reinforcement Learning/Methods/Value-Based Method.md",
+    "Machine Learning/Reinforcement Learning/Methods/RL Methods.md",
+    "Machine Learning/Reinforcement Learning/Methods/Policy-Based Method.md",
+    "Apache Spark/Introduction to Apache Spark/Spark's Language APIs.md",
+    "Machine Learning/Reinforcement Learning/Methods/Model-Based Method.md",
+    "Machine Learning/Reinforcement Learning/Methods/Model-Free Method.md",
+    "Machine Learning/PyTorch/Tensors.md",
+    "Machine Learning/PyTorch/PyTorch Gradients.md",
+    "Machine Learning/Reinforcement Learning/Policy.md"
   ]
 }

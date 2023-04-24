@@ -8,7 +8,7 @@ The Spark language APIs let you run code using various languages. Mostly, Spark 
 	The authors of Spark have worked to ensure you can write Spark code in Java
 
 [[Python]]
-	Python supports almost all constructs that Scala supports
+	Python supports almost all constructs that Scala supports. See [[PySpark]]
 
 [[SQL]]
 	Spark supports a subset of the ANSI SQL 2003 standard, making it easy for analysts and non-programmers to use Spark
