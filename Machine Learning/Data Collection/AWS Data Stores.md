@@ -6,7 +6,7 @@ Amazon [[S3]] is unlimited object data storage of any time. Go to place to store
 Relational Database Service. Fully managed relational database with different engine types available.
 
 ## Amazon [[DynamoDB]]
-[[NoSQ]]L database for storing key-value pairs. Good for unstructured/semi-structured data.
+[[NoSQL]] database for storing key-value pairs. Good for unstructured/semi-structured data.
 
 ## Amazon [[Redshift]]
 Redshift is a managed data warehousing to congregate data from many locations. You can store large amounts of structured and semi-structured data.
