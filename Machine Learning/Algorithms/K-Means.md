@@ -1,0 +1,1 @@
+A very popular [[Clustering]] algorithm. This tries to group data based on the [[Euclidean Distance]] between points in the data. Smaller distance means more similar points.

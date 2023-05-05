@@ -6,7 +6,7 @@ It is a supervised learning algorithm where each non-leaf node is a decision bet
 
 There are two types of decision trees:
 - [[Classification]] tree (classify object)
-- [[Regression]] tree (provide real number)
+- [[Machine Learning/Machine Learning Terminology/Regression]] tree (provide real number)
 
 ## Benefits
 - Simple

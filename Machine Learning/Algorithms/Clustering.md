@@ -1,0 +1,1 @@
+Clustering is a set of [[Unsupervised Learning]] algorithms which tries to group things that are similar to each other.

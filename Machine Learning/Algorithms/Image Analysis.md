@@ -1,0 +1,1 @@
+A type of [[Classification]] that classifies pictures. With enough data, an image analysis algorithm can guess the label of the image alongside a confidence level.

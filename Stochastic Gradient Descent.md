@@ -1,0 +1,1 @@
+Stochastic gradient descent tries to get to the lowest point in error.
