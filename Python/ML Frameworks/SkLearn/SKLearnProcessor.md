@@ -1,0 +1,2 @@
+# [[SkLearn]]Processor
+Handles [[SageMaker]] processing tasks for jobs using scikit-learn. For example if you wanted a job to complete a train/test split on your data, you can use the `sklearn.model_selection.train_test_split` function in a [[Python]] file and the SkLearnProcessor will create a [[Processing]] job to split the data as required.

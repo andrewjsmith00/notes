@@ -1,0 +1,2 @@
+# Dockerfile
+The Dockerfile describes the image that you want to build. You can think of it as describing the complete operating system installation of the system that you want to run. A [[Docker]] container running is quite a bit ligher than a full operating system as it takes advantage of [[Linux]] on the host machine for basic operations
