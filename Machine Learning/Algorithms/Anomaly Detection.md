@@ -1,0 +1,1 @@
+To detect anomalies, we need to know what is normal and what is not.

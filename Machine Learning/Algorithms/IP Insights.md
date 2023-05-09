@@ -1,0 +1,1 @@
+An [[Anomaly Detection]] algorithm for learning usage patterns for IPv4 addresses based on IP addresses and entities such as user IDs or account numbers.
