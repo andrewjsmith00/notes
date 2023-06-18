@@ -11,7 +11,7 @@ The second complication is that an agent needs to both *exploit* and *explore* i
 The third is that sometimes the reward can be delayed after actions. For example in chess, a strong move in the middle of the game can heavily influence the outcome in the end. During learning, we need to discover this relationship which can be tricky.
 
 ## Formalisms
-Each field in science and engineering has its own assumptions and limitations. In supervised learning, this is the knowlege of input-output pairs. If you have no labels, you need to figure out how to get them or use something else. This doesn't necessarily make supervised learning good or bad, it just means it doesn't suit the problem. For anything we do we need to understand the limitations that we may face.
+Each field in science and engineering has its own assumptions and limitations. In [[supervised learning]], this is the knowlege of input-output pairs. If you have no labels, you need to figure out how to get them or use something else. This doesn't necessarily make supervised learning good or bad, it just means it doesn't suit the problem. For anything we do we need to understand the limitations that we may face.
 
 The two major entities in reinforcement learning are the agent and the environment. They communicate via the actions, rewards and observations.
 ```mermaid

@@ -23,7 +23,7 @@ If you can define why data is missing, you can use specific techniques to fill i
 
 ## Handling Missing Values
 
-### Supervised learning
+### [[Supervised learning]]
 Looks at other values in features and predicts the missing values. It is the most difficult but can have the best results.
 
 ### Mean
