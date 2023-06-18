@@ -9,4 +9,5 @@ Indicates by high testing error but low training error.
 2. Stop early
 3. Add some noise
 4. Use [[Regularisation]]
-5. 
+5. [[Ensemble Learning]]
+6. [[Feature Selection]]

@@ -1,0 +1,1 @@
+Area Under the Curve (or AUC) is a way of measuring [[Binary Classification]] accuracy. We want to aim for a value of 1.
