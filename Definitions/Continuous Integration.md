@@ -1,0 +1,1 @@
+Continuously merge into main branch with automated testing as much as possible

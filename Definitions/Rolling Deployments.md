@@ -1,0 +1,1 @@
+We roll out an update slowly and incrementally move traffic to the newer version
