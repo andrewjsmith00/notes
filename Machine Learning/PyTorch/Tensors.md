@@ -3,6 +3,6 @@ Tensors are the fundamental building blocks of [[Deep Learning]] toolkits like [
 You can convert a NumPy array to a PyTorch Tensor using the `torch.tensor` method.
 
 ## Tensors and Gradients
-Tensors have built-in gradient calculation and tracking, so you just need to convert data into tensors and perform computations using the tensor moethods and functions provided by PyTorch.
+Tensors have built-in gradient calculation and tracking, so you just need to convert data into tensors and perform computations using the tensor moethods and functions provided by [[Python/ML Frameworks/PyTorch/PyTorch|PyTorch]].
 
 By calling the `tensor.backward` function, PyTorch calculates the derivative of the variable with respect to any variable the computation graph has.
