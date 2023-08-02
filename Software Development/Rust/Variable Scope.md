@@ -13,3 +13,4 @@ let s = "hello"
 }    // s is no longer valid
 ```
 
+When the program gets to the end of the scope, [[Rust]] automatically returns the memory used.
