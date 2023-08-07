@@ -10,5 +10,5 @@ With governance mode, you protect objects against being deleted by most users, b
 A protected object version can't be overwritten or deleted by any user, including the root user in your AWS account. When an object is locked in compliance mode, its retention mode can't be changed and its retention period can't be shortened. Compliance mode ensures an object version can't be overwritten or deleted for the duration of the retention period.
 
 
-## [[Glacier/Glacier Vault Lock|Glacier Vault Lock]]
+## [[Glacier Vault Lock|Glacier Vault Lock]]
 Allows you to easily deploy and enforce compliance controls for individual [[S3]] [[Glacier]] vaults with a vault lock policy. You can specify controls such as WORM in a vault lock policy and lock the policy from future edits. Once locked, the policy cannot be changed.

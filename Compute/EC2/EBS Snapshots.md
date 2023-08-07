@@ -1,0 +1,1 @@
+[[EBS]] snapshots are incremental. They only store the changes from the last snapshot.
