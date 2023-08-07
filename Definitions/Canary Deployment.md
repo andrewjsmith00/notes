@@ -1,1 +1,0 @@
-Deploy a new version and send a fraction of the traffic to the new version. Evaluate effectiveness and decide next step.
