@@ -14,7 +14,7 @@
 - 20% cheaper than Standard-IA
 - Great for long-lived, infrequently accessed, non-critical data
 
-## Glacier
+## [[Glacier]]
 - Long-term data archiving with retrieval times of 1 minute to 12 hours. Pay to access. Useful for data only accessed a few times per year
 
 ## Glacier Deep Archive
