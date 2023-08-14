@@ -1,0 +1,3 @@
+You can configure up to 15 read replicas for [[Aurora]] databases. When you write to the cluster, you use the cluster endpoint which will automatically direct to the master node, whichever that is at the time. There is a read endpoint which directs to any of the read replicas.
+
+In the event the master fails, the cluster endpoint reconfigures to point to an existing read replica. The failed master is then added as a read replica once recovered.

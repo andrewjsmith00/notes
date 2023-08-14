@@ -1,0 +1,1 @@
+[[Aurora]] allows for multi region deployments where there is a primary region, and then up to 5 secondary regions for availability and redundancy. In the event of an outage, you can promote the secondary to a primary.

@@ -1,0 +1,1 @@
+[[Aurora]] Serverless is useful for bursty workloads where capacity requirements shift frequently. It uses **ACU**s for capacity and has a step based approach to scaling. This removes the need to manage instances.
