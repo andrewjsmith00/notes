@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "250e21bfbf46945c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d07fafb1de55d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84fc98400e8cfd32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytics/Athena/Athena vs Redshift Spectrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72f79c3b004f0acd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba6732f08b661940",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d20df7abb439335c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fba8575548caf42b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "efe9c8c629ad4d38",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79fec475eb65bf15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Analytics/Athena/Athena vs Redshift Spectrum.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "84fc98400e8cfd32",
+  "lastOpenFiles": [
+    "Databases/Elasticache/Elasticache.md",
+    "Analytics/Athena/Athena vs Redshift Spectrum.md",
+    "Databases/DocumentDB/DocumentDB.md",
+    "Databases/Elasticache",
+    "Databases/DocumentDB",
+    "Databases/Aurora/Aurora.md",
+    "Databases/Aurora/Aurora Serverless.md",
+    "Databases/Aurora/Aurora Global Databases.md",
+    "Databases/Aurora/Aurora Read Replica.md",
+    "Databases/RDS/RDS Replication.md",
+    "Databases/Aurora/Untitled",
+    "Databases/Aurora",
+    "Databases/RDS/RDS.md",
+    "Storage/Storage Gateway/Storage Gateway.md",
+    "Databases/RDS",
+    "Storage/Storage Gateway",
+    "Storage/Glacier/Glacier Vault Lock.md",
+    "Storage/EFS/EFS.md",
+    "Storage/FSx/FSx for Windows File Server.md",
+    "Storage/FSx/FSx for Lustre.md",
+    "Storage/FSx/FSx.md",
+    "Compute/EC2/EBS.md",
+    "Compute/EC2/EBS Snapshots.md",
+    "Glacier/Glacier.md",
+    "Glacier vault Lock.md",
+    "Glacier",
+    "Software Development/Rust/Ownership.md",
+    "Software Development/Rust/Rust Memory Safety.md",
+    "Software Development/Rust/Variable Scope.md",
+    "Apache Spark/Spark MLLib/Spark MLLib.md",
+    "Software Development/Rust/Variables and Mutability.md",
+    "Software Development/Rust/Data Types in Rust.md",
+    "Developer Tools/CodeSuite/CodeCommit.md"
+  ]
+}
