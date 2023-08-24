@@ -11,8 +11,12 @@
             "id": "84fc98400e8cfd32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compute/EC2/Placement Groups.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -70,6 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Compute/EC2/Placement Groups.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
