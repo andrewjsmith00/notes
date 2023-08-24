@@ -11,12 +11,8 @@
             "id": "84fc98400e8cfd32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analytics/Athena/Athena vs Redshift Spectrum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Analytics/Athena/Athena vs Redshift Spectrum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,8 +94,10 @@
   },
   "active": "84fc98400e8cfd32",
   "lastOpenFiles": [
-    "Databases/Elasticache/Elasticache.md",
+    "Networking/Transit Gateway/Transit Gateway.md",
     "Analytics/Athena/Athena vs Redshift Spectrum.md",
+    "Networking/Transit Gateway",
+    "Databases/Elasticache/Elasticache.md",
     "Databases/DocumentDB/DocumentDB.md",
     "Databases/Elasticache",
     "Databases/DocumentDB",
@@ -130,7 +127,6 @@
     "Software Development/Rust/Variable Scope.md",
     "Apache Spark/Spark MLLib/Spark MLLib.md",
     "Software Development/Rust/Variables and Mutability.md",
-    "Software Development/Rust/Data Types in Rust.md",
-    "Developer Tools/CodeSuite/CodeCommit.md"
+    "Software Development/Rust/Data Types in Rust.md"
   ]
 }
