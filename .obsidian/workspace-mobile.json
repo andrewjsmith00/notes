@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77d07fafb1de55d4",
+        "id": "35cf27a15780f170",
         "type": "tabs",
         "children": [
           {
-            "id": "84fc98400e8cfd32",
+            "id": "a8b1d28ef90d5e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/EC2/Placement Groups.md",
+                "file": "Networking/VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,13 +74,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/EC2/Placement Groups.md",
+            "file": "Networking/VPN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           }
         }
@@ -97,8 +97,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "84fc98400e8cfd32",
+  "active": "a8b1d28ef90d5e19",
   "lastOpenFiles": [
+    "Compute/EC2/Placement Groups.md",
     "Networking/Transit Gateway/Transit Gateway.md",
     "Analytics/Athena/Athena vs Redshift Spectrum.md",
     "Networking/Transit Gateway",
@@ -131,7 +132,6 @@
     "Software Development/Rust/Rust Memory Safety.md",
     "Software Development/Rust/Variable Scope.md",
     "Apache Spark/Spark MLLib/Spark MLLib.md",
-    "Software Development/Rust/Variables and Mutability.md",
-    "Software Development/Rust/Data Types in Rust.md"
+    "Software Development/Rust/Variables and Mutability.md"
   ]
 }
