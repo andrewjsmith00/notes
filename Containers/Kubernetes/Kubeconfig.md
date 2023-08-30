@@ -1,0 +1,1 @@
+Kubeconfig is the configuration files for a [[Kubernetes]] cluster. It includes information on how to authenticate, where the API is located and other relevant information

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35cf27a15780f170",
+        "id": "981662d864e7a14f",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b1d28ef90d5e19",
+            "id": "075f4ed9ee53feea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/VPN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Networking/VPN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,8 +92,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a8b1d28ef90d5e19",
+  "active": "075f4ed9ee53feea",
   "lastOpenFiles": [
+    "Containers/Kubernetes/Kubeconfig.md",
+    "Networking/VPN.md",
     "Compute/EC2/Placement Groups.md",
     "Networking/Transit Gateway/Transit Gateway.md",
     "Analytics/Athena/Athena vs Redshift Spectrum.md",
@@ -130,8 +127,6 @@
     "Glacier",
     "Software Development/Rust/Ownership.md",
     "Software Development/Rust/Rust Memory Safety.md",
-    "Software Development/Rust/Variable Scope.md",
-    "Apache Spark/Spark MLLib/Spark MLLib.md",
-    "Software Development/Rust/Variables and Mutability.md"
+    "Software Development/Rust/Variable Scope.md"
   ]
 }
