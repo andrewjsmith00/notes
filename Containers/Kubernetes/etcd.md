@@ -1,0 +1,1 @@
+etcd is a distributed key value store used with [[Kubernetes]]

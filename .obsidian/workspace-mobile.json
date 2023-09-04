@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "981662d864e7a14f",
+        "id": "d9af32fe7717f867",
         "type": "tabs",
         "children": [
           {
-            "id": "075f4ed9ee53feea",
+            "id": "32e3052584a6fb17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,8 +92,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "075f4ed9ee53feea",
+  "active": "32e3052584a6fb17",
   "lastOpenFiles": [
+    "Containers/Kubernetes/etcd.md",
     "Containers/Kubernetes/Kubeconfig.md",
     "Networking/VPN.md",
     "Compute/EC2/Placement Groups.md",
@@ -126,7 +127,6 @@
     "Glacier vault Lock.md",
     "Glacier",
     "Software Development/Rust/Ownership.md",
-    "Software Development/Rust/Rust Memory Safety.md",
-    "Software Development/Rust/Variable Scope.md"
+    "Software Development/Rust/Rust Memory Safety.md"
   ]
 }
