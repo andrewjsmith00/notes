@@ -1,0 +1,1 @@
+A residual is the difference in [[Regression]] accuracy of the difference between the actual value and the predicted value. We want to try and centre the residual distribution around 0.
