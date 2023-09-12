@@ -11,8 +11,12 @@
             "id": "32e3052584a6fb17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -70,6 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
