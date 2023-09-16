@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
+                "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
+            "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "32e3052584a6fb17",
   "lastOpenFiles": [
+    "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
+    "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
     "Containers/Kubernetes/etcd.md",
     "Containers/Kubernetes/Kubeconfig.md",
     "Networking/VPN.md",
@@ -130,8 +132,6 @@
     "Compute/EC2/EBS Snapshots.md",
     "Glacier/Glacier.md",
     "Glacier vault Lock.md",
-    "Glacier",
-    "Software Development/Rust/Ownership.md",
-    "Software Development/Rust/Rust Memory Safety.md"
+    "Glacier"
   ]
 }
