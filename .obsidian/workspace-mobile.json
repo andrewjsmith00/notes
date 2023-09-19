@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d9af32fe7717f867",
+        "id": "93386117c7b8b92d",
         "type": "tabs",
         "children": [
           {
-            "id": "32e3052584a6fb17",
+            "id": "a49d4277e21e3ae8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Natural Language Processing/Embeddings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/Natural Language Processing/Embeddings.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,11 +92,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba6732f08b661940",
+  "active": "a49d4277e21e3ae8",
   "lastOpenFiles": [
-    "Untitled",
-    "Machine Learning/Natural Language Processing/Vectorisation.md",
+    "Statistics/Probability Distributions/Poisson Distribution.md",
+    "Statistics/Probability Distributions/Normal Distribution.md",
+    "Statistics/Probability Distributions/Binomial Distribution.md",
+    "Statistics/Probability Distributions/Uniform Distribution.md",
+    "Statistics/Probability Distributions/Central Limit Theorem.md",
     "Machine Learning/Natural Language Processing/Embeddings.md",
+    "Statistics/Probability Distributions",
+    "Statistics",
+    "Machine Learning/Natural Language Processing/Vectorisation.md",
     "Machine Learning/Natural Language Processing/Tokens.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
     "Machine Learning/Natural Language Processing",
@@ -128,11 +129,6 @@
     "Storage/Storage Gateway/Storage Gateway.md",
     "Databases/RDS",
     "Storage/Storage Gateway",
-    "Storage/Glacier/Glacier Vault Lock.md",
-    "Storage/EFS/EFS.md",
-    "Storage/FSx/FSx for Windows File Server.md",
-    "Storage/FSx/FSx for Lustre.md",
-    "Storage/FSx/FSx.md",
-    "Glacier"
+    "Storage/Glacier/Glacier Vault Lock.md"
   ]
 }
