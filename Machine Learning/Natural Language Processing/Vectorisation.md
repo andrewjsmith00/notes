@@ -1,0 +1,1 @@
+Vectorisation is the process of mapping [[Tokens]] to an n-dimensional vector randomly.

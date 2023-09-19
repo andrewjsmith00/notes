@@ -1,0 +1,1 @@
+Tokens are numerical representations of words. We divide text into smaller units and then each unit is represented by a number of some type.

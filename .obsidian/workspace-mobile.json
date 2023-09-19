@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
+                "file": "Machine Learning/Natural Language Processing/Embeddings.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
+            "file": "Machine Learning/Natural Language Processing/Embeddings.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,10 +97,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32e3052584a6fb17",
+  "active": "ba6732f08b661940",
   "lastOpenFiles": [
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
+    "Untitled",
+    "Machine Learning/Natural Language Processing/Vectorisation.md",
+    "Machine Learning/Natural Language Processing/Embeddings.md",
+    "Machine Learning/Natural Language Processing/Tokens.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
+    "Machine Learning/Natural Language Processing",
+    "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
     "Containers/Kubernetes/etcd.md",
     "Containers/Kubernetes/Kubeconfig.md",
     "Networking/VPN.md",
@@ -128,10 +133,6 @@
     "Storage/FSx/FSx for Windows File Server.md",
     "Storage/FSx/FSx for Lustre.md",
     "Storage/FSx/FSx.md",
-    "Compute/EC2/EBS.md",
-    "Compute/EC2/EBS Snapshots.md",
-    "Glacier/Glacier.md",
-    "Glacier vault Lock.md",
     "Glacier"
   ]
 }
