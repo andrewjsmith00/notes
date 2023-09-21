@@ -1,5 +1,4 @@
-# Placement Groups
 When you launch an EC2 instance, it will attempt to place it in such a way that all instances are spread out across underlying hardware to minise failures. You can use placement groups to influence a group of interdependent instances to meet the needs for your workload. Depending on the type of workload you can use one of the following:
 - Cluster: Pack instances closely inside an AZ. This enables workloads to achieve low-latency network performance needed for applications such as HPC.
-- Partition: Spreads instances across logical partitions such that groups of instances in one partition do not share the underlying hardware with groups of instances in different parititions. Used by large distributed and replicated workloads like Hadoop, Cassandra and Kafka.
+- Partition: Spreads instances across logical partitions such that groups of instances in one partition do not share the underlying hardware with groups of instances in different parititions. Used by large distributed and replicated workloads like [[Hadoop]], [[Apache Cassandra]] and [[Apache Kafka]].
 - Spread: Places small group of instances across distinct underlying hardware to reduce correlated failures.

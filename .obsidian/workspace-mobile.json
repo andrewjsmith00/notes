@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93386117c7b8b92d",
+        "id": "067c5c2cfde26c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "a49d4277e21e3ae8",
+            "id": "8819782c2f4785c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,8 +92,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a49d4277e21e3ae8",
+  "active": "8819782c2f4785c6",
   "lastOpenFiles": [
+    "Networking/Global Accelerator.md",
+    "Networking/Direct Connect/Direct Connect.md",
+    "Compute/EC2/Placement Groups.md",
+    "Networking/Direct Connect",
     "Statistics/Probability Distributions/Poisson Distribution.md",
     "Statistics/Probability Distributions/Normal Distribution.md",
     "Statistics/Probability Distributions/Binomial Distribution.md",
@@ -110,7 +114,6 @@
     "Containers/Kubernetes/etcd.md",
     "Containers/Kubernetes/Kubeconfig.md",
     "Networking/VPN.md",
-    "Compute/EC2/Placement Groups.md",
     "Networking/Transit Gateway/Transit Gateway.md",
     "Analytics/Athena/Athena vs Redshift Spectrum.md",
     "Networking/Transit Gateway",
@@ -126,9 +129,6 @@
     "Databases/Aurora/Untitled",
     "Databases/Aurora",
     "Databases/RDS/RDS.md",
-    "Storage/Storage Gateway/Storage Gateway.md",
-    "Databases/RDS",
-    "Storage/Storage Gateway",
-    "Storage/Glacier/Glacier Vault Lock.md"
+    "Databases/RDS"
   ]
 }

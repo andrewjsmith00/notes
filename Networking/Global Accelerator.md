@@ -1,0 +1,3 @@
+Global Accelerator is a service that creates public static IP routes that users connect to. When a user tries to access a page behind a Global Accelerator, it directs them to the closest endpoint to them before using the [[AWS Private Network]] to route to the application. This is much faster than if they were to try and access the page directly.
+
+These endpoints are protected by [[AWS Shield]] by default.
