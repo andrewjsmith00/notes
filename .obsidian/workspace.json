@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d16f2c12b0a26cc",
@@ -114,7 +115,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ddb529a3b9b2967f",
+  "active": "dd8794db8d5b4c8b",
   "lastOpenFiles": [
     "Security, Identity, & Compliance/AWS Shield.md",
     "Security, Identity, & Compliance/GuardDuty.md",

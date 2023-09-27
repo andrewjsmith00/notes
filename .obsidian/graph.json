@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Apache Spark\"",
@@ -55,6 +55,34 @@
         "a": 1,
         "rgb": 16206849
       }
+    },
+    {
+      "query": "path:\"Security, Identity, & Compliance\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15877447
+      }
+    },
+    {
+      "query": "path:Networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 8737508
+      }
+    },
+    {
+      "query": "path:\"Management and Governance\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13706855
+      }
+    },
+    {
+      "query": "path:Storage  ",
+      "color": {
+        "a": 1,
+        "rgb": 3571741
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.9053275505378908,
-  "close": false
+  "scale": 1.162506384140528,
+  "close": true
 }
