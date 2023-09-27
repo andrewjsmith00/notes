@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Jumbo Frames.md",
+                "file": "Security, Identity, & Compliance/Simple AD.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Networking/Jumbo Frames.md",
+            "file": "Security, Identity, & Compliance/Simple AD.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,8 +99,12 @@
   },
   "active": "8819782c2f4785c6",
   "lastOpenFiles": [
-    "Networking/Route 53/Route 53 Routing Policies.md",
+    "Security, Identity, & Compliance/Managed Microsoft Active Directory.md",
+    "Security, Identity, & Compliance/Simple AD.md",
+    "Security, Identity, & Compliance/Cloud Directory.md",
+    "Security, Identity, & Compliance/AD Connector.md",
     "Networking/Jumbo Frames.md",
+    "Networking/Route 53/Route 53 Routing Policies.md",
     "Networking/Route 53/Route 53.md",
     "Networking/Route 53",
     "Networking/DNS",
@@ -128,12 +132,8 @@
     "Analytics/Athena/Athena vs Redshift Spectrum.md",
     "Networking/Transit Gateway",
     "Databases/Elasticache/Elasticache.md",
-    "Databases/DocumentDB/DocumentDB.md",
     "Databases/Elasticache",
     "Databases/DocumentDB",
-    "Databases/Aurora/Aurora.md",
-    "Databases/Aurora/Aurora Serverless.md",
-    "Databases/Aurora/Aurora Global Databases.md",
     "Databases/Aurora/Untitled"
   ]
 }

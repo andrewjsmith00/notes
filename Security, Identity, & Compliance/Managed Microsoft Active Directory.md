@@ -1,0 +1,1 @@
+AWS Managed [[Microsoft Active Directory]]. Runs on a Windows Server 2012
