@@ -1,0 +1,1 @@
+GuardDuty is a machine learning based service that monitors your account and generate recommendations.

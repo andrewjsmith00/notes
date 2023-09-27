@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "067c5c2cfde26c6f",
+        "id": "9285205d3f71181b",
         "type": "tabs",
         "children": [
           {
-            "id": "8819782c2f4785c6",
+            "id": "a471bdf7fd248151",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security, Identity, & Compliance/Secrets Manager.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Security, Identity, & Compliance/Secrets Manager.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,10 +92,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8819782c2f4785c6",
+  "active": "a471bdf7fd248151",
   "lastOpenFiles": [
-    "Security, Identity, & Compliance/Private Certificate Authority.md",
+    "Migration/Application Migration Service.md",
+    "Migration/Application Discovery Service.md",
+    "Migration/Migration Hub.md",
+    "Security, Identity, & Compliance/GuardDuty.md",
+    "Security, Identity, & Compliance/Firewall Manager.md",
+    "Security, Identity, & Compliance/AWS Network Firewall.md",
+    "Security, Identity, & Compliance/AWS Shield.md",
     "Security, Identity, & Compliance/Secrets Manager.md",
+    "Security, Identity, & Compliance/Security Hub.md",
+    "Migration",
+    "Security, Identity, & Compliance/Private Certificate Authority.md",
     "Security, Identity, & Compliance/Certificate Manager.md",
     "Security, Identity, & Compliance/CloudHSM.md",
     "Security, Identity, & Compliance/KMS.md",
@@ -120,20 +124,11 @@
     "Networking/Direct Connect",
     "Statistics/Probability Distributions/Poisson Distribution.md",
     "Statistics/Probability Distributions/Normal Distribution.md",
-    "Statistics/Probability Distributions/Binomial Distribution.md",
-    "Statistics/Probability Distributions/Uniform Distribution.md",
-    "Statistics/Probability Distributions/Central Limit Theorem.md",
-    "Machine Learning/Natural Language Processing/Embeddings.md",
     "Statistics/Probability Distributions",
     "Statistics",
-    "Machine Learning/Natural Language Processing/Vectorisation.md",
-    "Machine Learning/Natural Language Processing/Tokens.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
     "Machine Learning/Natural Language Processing",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
     "Networking/Transit Gateway",
     "Databases/Elasticache",
-    "Databases/DocumentDB",
-    "Databases/Aurora/Untitled"
+    "Databases/DocumentDB"
   ]
 }

@@ -1,0 +1,1 @@
+Application Migration Service (or MGN) is used to migrate applications to AWS. It runs agents on hardware which replicate data to AWS. This is then used to launch [[EC2]] instances in a staging [[VPC]] to confirm everything is ok. This can then be used to quickly launch production sized EC2 instances in another VPC.
