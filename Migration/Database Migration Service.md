@@ -1,0 +1,1 @@
+Database Migration Service (or DMS) is used to migrate relational databases to AWS. The target databases can be [[Aurora]], [[RDS]] or [[EC2]]. You can either have a homogenous migration (MySQL to MySQL) or heterogeneous migration (MySQL to PostgreSQL)

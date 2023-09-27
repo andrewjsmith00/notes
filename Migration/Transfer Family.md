@@ -1,0 +1,1 @@
+You can use Transfer Families to leverage third-party authentication to give users access to data in your environment. This can be via protocols such as [[SFTP]].
