@@ -1,0 +1,1 @@
+Allows for a private certificate authority to be created for signing certificates. Can integrate with [[Certificate Manager]]

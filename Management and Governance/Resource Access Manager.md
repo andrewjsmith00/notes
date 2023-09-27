@@ -1,0 +1,1 @@
+Resource Access Manager is a service that allows you to share certain resources across accounts such as [[VPC]] subnets and more. You can only share items within the same region. You can either share to a specific account or [[Organizational Units]].

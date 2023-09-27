@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security, Identity, & Compliance/Simple AD.md",
+                "file": "Security, Identity, & Compliance/Secrets Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Security, Identity, & Compliance/Simple AD.md",
+            "file": "Security, Identity, & Compliance/Secrets Manager.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,8 +99,14 @@
   },
   "active": "8819782c2f4785c6",
   "lastOpenFiles": [
-    "Security, Identity, & Compliance/Managed Microsoft Active Directory.md",
+    "Security, Identity, & Compliance/Private Certificate Authority.md",
+    "Security, Identity, & Compliance/Secrets Manager.md",
+    "Security, Identity, & Compliance/Certificate Manager.md",
+    "Security, Identity, & Compliance/CloudHSM.md",
+    "Security, Identity, & Compliance/KMS.md",
+    "Management and Governance/Resource Access Manager.md",
     "Security, Identity, & Compliance/Simple AD.md",
+    "Security, Identity, & Compliance/Managed Microsoft Active Directory.md",
     "Security, Identity, & Compliance/Cloud Directory.md",
     "Security, Identity, & Compliance/AD Connector.md",
     "Networking/Jumbo Frames.md",
@@ -125,13 +131,7 @@
     "Containers/Kubernetes/Basic Kubernetes Concepts/Worker Node.md",
     "Machine Learning/Natural Language Processing",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Clustering and Nodes.md",
-    "Containers/Kubernetes/etcd.md",
-    "Containers/Kubernetes/Kubeconfig.md",
-    "Networking/VPN.md",
-    "Networking/Transit Gateway/Transit Gateway.md",
-    "Analytics/Athena/Athena vs Redshift Spectrum.md",
     "Networking/Transit Gateway",
-    "Databases/Elasticache/Elasticache.md",
     "Databases/Elasticache",
     "Databases/DocumentDB",
     "Databases/Aurora/Untitled"

@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "345986e11f8af269",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "48da6ee95fa01166",
+  "active": "345986e11f8af269",
   "lastOpenFiles": [
     "Storage/FSx/FSx for Lustre.md",
     "Storage/FSx/FSx.md",
