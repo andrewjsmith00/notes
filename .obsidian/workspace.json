@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93cec8afe3a7494a",
+        "id": "65058c3c302a58fe",
         "type": "tabs",
         "children": [
           {
-            "id": "8b97f81ec8ac56d0",
+            "id": "ddb529a3b9b2967f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Development/Rust/Rust Memory Safety.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48da6ee95fa01166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storage/FSx/FSx for Windows File Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "345986e11f8af269",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,13 +81,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storage/FSx/FSx for Windows File Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -142,11 +114,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "345986e11f8af269",
+  "active": "ddb529a3b9b2967f",
   "lastOpenFiles": [
+    "Security, Identity, & Compliance/AWS Shield.md",
+    "Security, Identity, & Compliance/GuardDuty.md",
+    "Security, Identity, & Compliance/Firewall Manager.md",
+    "Security, Identity, & Compliance/AWS Network Firewall.md",
+    "Security, Identity, & Compliance/AD Connector.md",
+    "Security, Identity, & Compliance/WAF.md",
+    "Security, Identity, & Compliance/Security Hub.md",
+    "Software Development/Rust/Rust Memory Safety.md",
+    "Storage/FSx/FSx for Windows File Server.md",
     "Storage/FSx/FSx for Lustre.md",
     "Storage/FSx/FSx.md",
-    "Storage/FSx/FSx for Windows File Server.md",
     "Storage/FSx",
     "Storage/EFS/EFS.md",
     "Compute/EC2/EBS.md",
@@ -157,7 +137,6 @@
     "Storage/S3/Object Lock and Glacier Vault Lock.md",
     "Storage/Glacier/Glacier.md",
     "Software Development/Rust/Variable Scope.md",
-    "Software Development/Rust/Rust Memory Safety.md",
     "Software Development/Rust/Rust Strings.md",
     "Software Development/Rust/Ownership.md",
     "Software Development/Rust/Data Types in Rust.md",
@@ -166,17 +145,10 @@
     "Developer Tools/CodeSuite/CodeCommit.md",
     "Software Development/Rust/Cargo.md",
     "Untitled.md",
-    "Software Development/Rust/Rust Macros.md",
-    "Software Development/Rust/Rust.md",
     "Software Development/Rust",
     "Software Development",
-    "Python/ML Frameworks/PyTorch/PyTorch.md",
-    "Definitions/Continuous Integration.md",
-    "Definitions/Continuous Deployment.md",
-    "Definitions/Continuous Delivery.md",
     "Developer Tools/CodeSuite",
     "Developer Tools",
-    "DevOps/CI-CD/CI-CD Concepts.md",
     "DevOps/CI-CD",
     "DevOps",
     "Attachments",
