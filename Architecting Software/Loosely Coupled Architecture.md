@@ -1,0 +1,4 @@
+This is a design pattern where your components are not tied together and are independent functional parts. This allows for increased flexibility, scalability and cost benefits. Your parts are atomic and interchangeable as they pass messages between components to each the goal.
+
+
+For example in a 3 tier web application, you are better to loosely couple the front end with the back end. This means when your web layer needs to talk to the application layer, each instance does not have a direct component, instead they talk to a shared component (like a queue, bus or load balancer) which is then able to have the message passed onto the application layer. This means the application layer scales independently and the web layer scales independently

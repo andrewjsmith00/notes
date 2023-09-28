@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "555efaaedcef7700",
+        "id": "a4265d8342cc4240",
         "type": "tabs",
         "children": [
           {
-            "id": "421aaf0a820a0add",
+            "id": "d711d2791530a04b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,8 +92,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "421aaf0a820a0add",
+  "active": "d711d2791530a04b",
   "lastOpenFiles": [
+    "Architecting Software/Loosely Coupled Architecture.md",
+    "Architecting Software",
     "Migration/Transfer Family.md",
     "Migration/DataSync.md",
     "Migration/Database Migration Service.md",
@@ -122,13 +124,11 @@
     "Networking/Route 53",
     "Networking/DNS",
     "Networking/Global Accelerator.md",
-    "Networking/Direct Connect/Direct Connect.md",
     "Networking/Direct Connect",
     "Statistics/Probability Distributions",
     "Statistics",
     "Machine Learning/Natural Language Processing",
     "Networking/Transit Gateway",
-    "Databases/Elasticache",
-    "Databases/DocumentDB"
+    "Databases/Elasticache"
   ]
 }
