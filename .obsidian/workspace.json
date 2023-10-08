@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "737a3f3a06a48bdc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +110,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "df1db26336de1fd6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -115,7 +136,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dd8794db8d5b4c8b",
+  "active": "737a3f3a06a48bdc",
   "lastOpenFiles": [
     "Security, Identity, & Compliance/AWS Shield.md",
     "Security, Identity, & Compliance/GuardDuty.md",

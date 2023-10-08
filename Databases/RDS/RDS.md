@@ -1,1 +1,0 @@
-RDS is the managed relational database service for AWS. It supports many common databases such as [[MySQL]], [[MariaDB]], [[PostgreSQL]], [[SQL Server]] and more.
