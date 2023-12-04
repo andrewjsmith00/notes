@@ -11,8 +11,12 @@
             "id": "d711d2791530a04b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Rust/Data Types in Rust.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -56,6 +60,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "2ec0633e3dc6ca48",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -70,6 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Software Development/Rust/Data Types in Rust.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,6 +109,12 @@
   },
   "active": "d711d2791530a04b",
   "lastOpenFiles": [
+    "Definitions/AB Testing.md",
+    "Software Development/Rust/Rust.md",
+    "Security, Identity, & Compliance/WAF.md",
+    "Machine Learning/Machine Learning Terminology/Residuals.md",
+    "Machine Learning/Machine Learning Terminology/Underfitting.md",
+    "Definitions/Canary Deployment.md",
     "Architecting Software/Loosely Coupled Architecture.md",
     "Architecting Software",
     "Migration/Transfer Family.md",
@@ -116,14 +137,8 @@
     "Management and Governance/Resource Access Manager.md",
     "Security, Identity, & Compliance/Simple AD.md",
     "Security, Identity, & Compliance/Managed Microsoft Active Directory.md",
-    "Security, Identity, & Compliance/Cloud Directory.md",
-    "Security, Identity, & Compliance/AD Connector.md",
-    "Networking/Jumbo Frames.md",
-    "Networking/Route 53/Route 53 Routing Policies.md",
-    "Networking/Route 53/Route 53.md",
     "Networking/Route 53",
     "Networking/DNS",
-    "Networking/Global Accelerator.md",
     "Networking/Direct Connect",
     "Statistics/Probability Distributions",
     "Statistics",
