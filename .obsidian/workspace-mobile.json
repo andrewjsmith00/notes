@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Rust/Data Types in Rust.md",
+                "file": "Compute/Compute Optimizer.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Software Development/Rust/Data Types in Rust.md",
+            "file": "Compute/Compute Optimizer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "d711d2791530a04b",
   "lastOpenFiles": [
+    "Software Development/Rust/Data Types in Rust.md",
+    "Compute/Compute Optimizer.md",
     "Definitions/AB Testing.md",
     "Software Development/Rust/Rust.md",
     "Security, Identity, & Compliance/WAF.md",
@@ -135,8 +137,6 @@
     "Security, Identity, & Compliance/CloudHSM.md",
     "Security, Identity, & Compliance/KMS.md",
     "Management and Governance/Resource Access Manager.md",
-    "Security, Identity, & Compliance/Simple AD.md",
-    "Security, Identity, & Compliance/Managed Microsoft Active Directory.md",
     "Networking/Route 53",
     "Networking/DNS",
     "Networking/Direct Connect",

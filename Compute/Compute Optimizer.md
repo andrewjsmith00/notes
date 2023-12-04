@@ -1,0 +1,1 @@
+Compute Optimizer is a machine learning service that looks at your resource configuration and [[CloudWatch Metrics]] to provide recommendations for [[EC2]], [[ECS]], [[EBS]], [[Lambda]] and auto scaling groups.
