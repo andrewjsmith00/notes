@@ -1,0 +1,1 @@
+The time after a disruption to restore business operation.

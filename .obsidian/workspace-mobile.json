@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Slurm/Slurm.md",
+                "file": "Definitions/Recovery Time Objective.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/HPC/Slurm/Slurm.md",
+            "file": "Definitions/Recovery Time Objective.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,9 +109,11 @@
   },
   "active": "d711d2791530a04b",
   "lastOpenFiles": [
+    "Definitions/Recovery Point Objective.md",
+    "Definitions/Recovery Time Objective.md",
+    "Compute/HPC/Slurm/Slurm.md",
     "Compute/HPC/Job Scheduler.md",
     "Compute/HPC/Resource manager.md",
-    "Compute/HPC/Slurm/Slurm.md",
     "Compute/Compute Optimizer.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
@@ -137,8 +139,6 @@
     "Security, Identity, & Compliance/Secrets Manager.md",
     "Security, Identity, & Compliance/Security Hub.md",
     "Migration",
-    "Security, Identity, & Compliance/Private Certificate Authority.md",
-    "Security, Identity, & Compliance/Certificate Manager.md",
     "Networking/Route 53",
     "Networking/DNS",
     "Networking/Direct Connect",
