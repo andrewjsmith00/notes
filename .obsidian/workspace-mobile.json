@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/Compute Optimizer.md",
+                "file": "Compute/HPC/Slurm/Slurm.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/Compute Optimizer.md",
+            "file": "Compute/HPC/Slurm/Slurm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +109,13 @@
   },
   "active": "d711d2791530a04b",
   "lastOpenFiles": [
-    "Software Development/Rust/Data Types in Rust.md",
+    "Compute/HPC/Job Scheduler.md",
+    "Compute/HPC/Resource manager.md",
+    "Compute/HPC/Slurm/Slurm.md",
     "Compute/Compute Optimizer.md",
+    "Compute/HPC/Slurm",
+    "Compute/HPC",
+    "Software Development/Rust/Data Types in Rust.md",
     "Definitions/AB Testing.md",
     "Software Development/Rust/Rust.md",
     "Security, Identity, & Compliance/WAF.md",
@@ -134,16 +139,11 @@
     "Migration",
     "Security, Identity, & Compliance/Private Certificate Authority.md",
     "Security, Identity, & Compliance/Certificate Manager.md",
-    "Security, Identity, & Compliance/CloudHSM.md",
-    "Security, Identity, & Compliance/KMS.md",
-    "Management and Governance/Resource Access Manager.md",
     "Networking/Route 53",
     "Networking/DNS",
     "Networking/Direct Connect",
     "Statistics/Probability Distributions",
     "Statistics",
-    "Machine Learning/Natural Language Processing",
-    "Networking/Transit Gateway",
-    "Databases/Elasticache"
+    "Machine Learning/Natural Language Processing"
   ]
 }
