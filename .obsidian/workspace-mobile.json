@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Recovery Time Objective.md",
+                "file": "Compute/HPC/Slurm/slurmstepd.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Definitions/Recovery Time Objective.md",
+            "file": "Compute/HPC/Slurm/slurmstepd.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,10 +109,14 @@
   },
   "active": "d711d2791530a04b",
   "lastOpenFiles": [
-    "Definitions/Recovery Point Objective.md",
-    "Definitions/Recovery Time Objective.md",
+    "Compute/HPC/Slurm/slurmd.md",
+    "Compute/HPC/Slurm/slurmstepd.md",
     "Compute/HPC/Slurm/Slurm.md",
+    "Compute/HPC/Slurm/slurmdbd.md",
+    "Compute/HPC/Slurm/slurmctld.md",
     "Compute/HPC/Job Scheduler.md",
+    "Definitions/Recovery Time Objective.md",
+    "Definitions/Recovery Point Objective.md",
     "Compute/HPC/Resource manager.md",
     "Compute/Compute Optimizer.md",
     "Compute/HPC/Slurm",
@@ -134,10 +138,6 @@
     "Migration/Migration Hub.md",
     "Security, Identity, & Compliance/GuardDuty.md",
     "Security, Identity, & Compliance/Firewall Manager.md",
-    "Security, Identity, & Compliance/AWS Network Firewall.md",
-    "Security, Identity, & Compliance/AWS Shield.md",
-    "Security, Identity, & Compliance/Secrets Manager.md",
-    "Security, Identity, & Compliance/Security Hub.md",
     "Migration",
     "Networking/Route 53",
     "Networking/DNS",
