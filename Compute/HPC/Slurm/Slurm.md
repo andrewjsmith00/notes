@@ -20,4 +20,15 @@ If you run with `-c` it will clear previous state
 	- `—label` shows the node ID in output
 	- `—-exclusive` provides exclusive access to the nodes
 - **sattach** Connect stdin/out/err for an existing job or job step
+- **sinfo** - System status
+- **squeue** - Reports job and job step status
+- **smap** - Reports system graphically
+- **sview** - Review and update system, job, step, partition or reservation
+- **scontrol** Admin tool to view or update information
+- **sacctmgr** - Database management tools
+	- Add/delete clusters, accounts, users
+	- Get/set resource limits  and fair-share allocaitons
+- **sprio** - View factors compromising a job’s priority
+- **sshare** - View hierarchical fair-share info
+- **sdiag** - View statistics on scheduling operations
 
