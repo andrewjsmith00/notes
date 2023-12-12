@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4265d8342cc4240",
+        "id": "47a0d9f21e27bf17",
         "type": "tabs",
         "children": [
           {
-            "id": "d711d2791530a04b",
+            "id": "ce9fb4c51d2742ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Slurm/slurmstepd.md",
+                "file": "Compute/HPC/Slurm/Slurm.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/HPC/Slurm/slurmstepd.md",
+            "file": "Compute/HPC/Slurm/Slurm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,10 +107,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d711d2791530a04b",
+  "active": "ce9fb4c51d2742ce",
   "lastOpenFiles": [
-    "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm/slurmstepd.md",
+    "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm/Slurm.md",
     "Compute/HPC/Slurm/slurmdbd.md",
     "Compute/HPC/Slurm/slurmctld.md",
