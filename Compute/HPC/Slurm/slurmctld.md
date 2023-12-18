@@ -1,1 +1,0 @@
-One per cluster. Main controller with optional backup. It monitors resources, manages queues and allocates resources

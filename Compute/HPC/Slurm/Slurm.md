@@ -31,4 +31,15 @@ If you run with `-c` it will clear previous state
 - **sprio** - View factors compromising a job’s priority
 - **sshare** - View hierarchical fair-share info
 - **sdiag** - View statistics on scheduling operations
+- **scancel** - Cancel jobs or steps
+- **sbcast** Transfer file to compute nodes allocated to a job. Uses [[Hierarchical Communications]]
+	- Copy file to local disk on allocates nodes. This can be faster than a shared file system
+	- Doesn’t accept a list of nodes
+- **srun_cr** - Wrapper to `srun` for Berkeley checkpoint/restart
+- **strigger** - Event trigger management
+	- Can be used to run arbitrary script when things happen:
+		- Node goes DOWN
+		- Daemon stops or restarts
+		- Job close to time limit
+		- Or others
 

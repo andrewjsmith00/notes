@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Slurm/Slurm.md",
+                "file": "Compute/HPC/Slurm/MUNGE.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/HPC/Slurm/Slurm.md",
+            "file": "Compute/HPC/Slurm/MUNGE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +109,11 @@
   },
   "active": "ce9fb4c51d2742ce",
   "lastOpenFiles": [
-    "Compute/HPC/Slurm/Slurm Job Execution Sequence.md",
+    "Compute/HPC/Slurm/Slurm Configuration.md",
+    "Compute/HPC/Slurm/MUNGE.md",
+    "Compute/HPC/Slurm/Slurm Database Usage.md",
     "Compute/HPC/Slurm/Slurm.md",
+    "Compute/HPC/Slurm/Slurm Job Execution Sequence.md",
     "Compute/HPC/Slurm/slurmstepd.md",
     "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm/slurmdbd.md",
@@ -135,9 +138,6 @@
     "Migration/DataSync.md",
     "Migration/Database Migration Service.md",
     "Migration/Application Migration Service.md",
-    "Migration/Application Discovery Service.md",
-    "Migration/Migration Hub.md",
-    "Security, Identity, & Compliance/GuardDuty.md",
     "Migration",
     "Networking/Route 53",
     "Networking/DNS",
