@@ -11,8 +11,12 @@
             "id": "bd359bc7b7898afc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Modeling/Softmax Function.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Modeling/Softmax Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,6 +132,11 @@
   },
   "active": "bd359bc7b7898afc",
   "lastOpenFiles": [
+    "Machine Learning/Modeling/Sigmoid Function.md",
+    "Machine Learning/Modeling/Softmax Function.md",
+    "Machine Learning/Modeling/Activation Functions.md",
+    "Machine Learning/PyTorch/PyTorch Gradients.md",
+    "Machine Learning/PyTorch/PyTorch.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Containers and Pods.md",
     "Compute/HPC/Slurm/Slurm Database Usage.md",
     "Compute/EC2/EBS.md",
@@ -152,11 +163,6 @@
     "Storage/S3/Object Lock and Glacier Vault Lock.md",
     "Storage/Glacier/Glacier.md",
     "Software Development/Rust/Variable Scope.md",
-    "Software Development/Rust/Rust Strings.md",
-    "Software Development/Rust/Ownership.md",
-    "Software Development/Rust/Data Types in Rust.md",
-    "Software Development/Rust/Variables and Mutability.md",
-    "Developer Tools/CodeSuite/CodeBuild.md",
     "Software Development/Rust",
     "Software Development",
     "Developer Tools/CodeSuite",

@@ -1,0 +1,1 @@
+Activation functions add non-linearity to [[Neural Networks]] in order to model more complex relationships.
