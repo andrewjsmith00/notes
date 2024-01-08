@@ -1,5 +1,5 @@
 [[Pod]]s are the smallest and most basic building block of [[Kubernetes]]
-A pod will have one or more containers, storage and IP address in the Kubernetes network
+A pod will have one or more [[Containers]], storage and IP address in the Kubernetes network
 
 In order to run containers, Kubernetes will schedule pods to run on servers in the cluster. When a pod is scheduled, the server will run the containers that are part of that pod
 

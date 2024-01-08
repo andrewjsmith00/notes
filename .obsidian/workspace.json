@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65058c3c302a58fe",
+        "id": "787cf439b409c0cc",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb529a3b9b2967f",
+            "id": "bd359bc7b7898afc",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "737a3f3a06a48bdc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "650cda023cc144e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d16f2c12b0a26cc",
@@ -146,8 +124,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "650cda023cc144e8",
+  "active": "bd359bc7b7898afc",
   "lastOpenFiles": [
+    "Containers/Kubernetes/Basic Kubernetes Concepts/Containers and Pods.md",
+    "Compute/HPC/Slurm/Slurm Database Usage.md",
+    "Compute/EC2/EBS.md",
+    "Machine Learning/Data Visualisation/Relationships.md",
+    "Untitled",
+    "AWS",
     "Security, Identity, & Compliance/AWS Shield.md",
     "Security, Identity, & Compliance/GuardDuty.md",
     "Security, Identity, & Compliance/Firewall Manager.md",
@@ -161,7 +145,6 @@
     "Storage/FSx/FSx.md",
     "Storage/FSx",
     "Storage/EFS/EFS.md",
-    "Compute/EC2/EBS.md",
     "Storage/EFS",
     "Storage",
     "Compute/EC2/EBS Snapshots.md",
@@ -174,16 +157,11 @@
     "Software Development/Rust/Data Types in Rust.md",
     "Software Development/Rust/Variables and Mutability.md",
     "Developer Tools/CodeSuite/CodeBuild.md",
-    "Developer Tools/CodeSuite/CodeCommit.md",
-    "Software Development/Rust/Cargo.md",
-    "Untitled.md",
     "Software Development/Rust",
     "Software Development",
     "Developer Tools/CodeSuite",
     "Developer Tools",
     "DevOps/CI-CD",
-    "DevOps",
-    "Attachments",
     "Attachments/Screenshot 2023-04-24 at 6.51.40 pm.png",
     "Untitled.canvas"
   ]
