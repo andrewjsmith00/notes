@@ -1,0 +1,1 @@
+A Deployment provides updates to [[Pod]]s and [[ReplicaSet]]s. You describe your state in a Deployment and [[Kubernetes]] makes it so. This is where you define your containers and ports.

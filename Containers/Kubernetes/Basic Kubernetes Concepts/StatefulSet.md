@@ -1,0 +1,1 @@
+A way of using stateful workloads in [[Kubernetes]] such as databases

@@ -1,0 +1,1 @@
+A service is a way of exposing an application in [[Kubernetes]] running as a set of [[Pod]]s. This allows for network applications to be exposed and they are given a DNS entry
