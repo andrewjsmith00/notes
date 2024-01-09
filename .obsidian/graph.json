@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Containers  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -95,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3646548982705738,
-  "close": true
+  "scale": 0.8298750835223189,
+  "close": false
 }

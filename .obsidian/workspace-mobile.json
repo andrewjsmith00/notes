@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47a0d9f21e27bf17",
+        "id": "4663c14b1f64ba91",
         "type": "tabs",
         "children": [
           {
-            "id": "ce9fb4c51d2742ce",
+            "id": "afbdd52ebc1a1fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Slurm/MUNGE.md",
+                "file": "Containers/EKS/EKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/HPC/Slurm/MUNGE.md",
+            "file": "Containers/EKS/EKS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,10 +107,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ce9fb4c51d2742ce",
+  "active": "ba6732f08b661940",
   "lastOpenFiles": [
-    "Compute/HPC/Slurm/Slurm Configuration.md",
+    "Containers/Kubernetes/Karpenter",
+    "Containers/EKS/EKS.md",
+    "Containers/EKS",
+    "Machine Learning/Modeling/Softmax Function.md",
+    "Machine Learning/Modeling/Activation Functions.md",
+    "Machine Learning/Modeling/Sigmoid Function.md",
     "Compute/HPC/Slurm/MUNGE.md",
+    "Compute/HPC/Slurm/Slurm Configuration.md",
     "Compute/HPC/Slurm/Slurm Database Usage.md",
     "Compute/HPC/Slurm/Slurm.md",
     "Compute/HPC/Slurm/Slurm Job Execution Sequence.md",
@@ -132,18 +138,12 @@
     "Machine Learning/Machine Learning Terminology/Residuals.md",
     "Machine Learning/Machine Learning Terminology/Underfitting.md",
     "Definitions/Canary Deployment.md",
-    "Architecting Software/Loosely Coupled Architecture.md",
     "Architecting Software",
-    "Migration/Transfer Family.md",
-    "Migration/DataSync.md",
-    "Migration/Database Migration Service.md",
-    "Migration/Application Migration Service.md",
     "Migration",
     "Networking/Route 53",
     "Networking/DNS",
     "Networking/Direct Connect",
     "Statistics/Probability Distributions",
-    "Statistics",
-    "Machine Learning/Natural Language Processing"
+    "Statistics"
   ]
 }
