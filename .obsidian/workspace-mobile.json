@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/EKS/EBS CSI Driver.md",
+                "file": "Containers/EKS/Managed Node Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers/EKS/EBS CSI Driver.md",
+            "file": "Containers/EKS/Managed Node Group.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +109,9 @@
   },
   "active": "afbdd52ebc1a1fe0",
   "lastOpenFiles": [
-    "Containers/Kubernetes/Storage/Container Storage Interface.md",
     "Containers/EKS/EBS CSI Driver.md",
+    "Containers/EKS/Managed Node Group.md",
+    "Containers/Kubernetes/Storage/Container Storage Interface.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/StatefulSet.md",
     "Containers/Kubernetes/Storage/Persistent Volume.md",
     "Containers/Kubernetes/Storage/Ephemeral Volume.md",
@@ -138,7 +139,6 @@
     "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm/slurmdbd.md",
     "Compute/HPC/Slurm/slurmctld.md",
-    "Compute/HPC/Job Scheduler.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",
