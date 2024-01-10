@@ -1,0 +1,1 @@
+A Persistent Volume is a type of [[Volume]] that exists beyond a [[Pod]]’s lifecycle. This allows for data to be retained between container restarts.

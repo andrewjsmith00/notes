@@ -1,1 +1,1 @@
-A way of using stateful workloads in [[Kubernetes]] such as databases
+A way of using stateful workloads in [[Kubernetes]] such as databases. These manage [[Pod]]s based on a spec like [[Deployment]]s but maintain a sticky identity for each. These [[Pod]]s are given persistent identifiers that maintain across any rescheduling

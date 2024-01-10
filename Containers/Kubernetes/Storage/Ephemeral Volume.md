@@ -1,0 +1,1 @@
+An Ephemeral Volume is a [[Volume]] that exists for the lifetime of a [[Pod]]. When the [[Pod]] stops, [[Kubernetes]] destroys the volume
