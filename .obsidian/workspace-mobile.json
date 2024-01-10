@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Kubernetes/Basic Kubernetes Concepts/StatefulSet.md",
+                "file": "Containers/EKS/EBS CSI Driver.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers/Kubernetes/Basic Kubernetes Concepts/StatefulSet.md",
+            "file": "Containers/EKS/EBS CSI Driver.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +109,9 @@
   },
   "active": "afbdd52ebc1a1fe0",
   "lastOpenFiles": [
+    "Containers/Kubernetes/Storage/Container Storage Interface.md",
+    "Containers/EKS/EBS CSI Driver.md",
+    "Containers/Kubernetes/Basic Kubernetes Concepts/StatefulSet.md",
     "Containers/Kubernetes/Storage/Persistent Volume.md",
     "Containers/Kubernetes/Storage/Ephemeral Volume.md",
     "Containers/Kubernetes/Storage/Volume.md",
@@ -117,7 +120,6 @@
     "Containers/Kubernetes/Basic Kubernetes Concepts/DNS Resolution in Kubernetes.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Networking in Kubernetes.md",
     "Containers/EKS/AWS Load Balancer Controller.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/StatefulSet.md",
     "Containers/Kubernetes/Kustomize",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Service.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Deployment.md",
@@ -137,8 +139,6 @@
     "Compute/HPC/Slurm/slurmdbd.md",
     "Compute/HPC/Slurm/slurmctld.md",
     "Compute/HPC/Job Scheduler.md",
-    "Definitions/Recovery Time Objective.md",
-    "Definitions/Recovery Point Objective.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",
