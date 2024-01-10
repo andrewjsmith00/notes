@@ -1,0 +1,1 @@
+Pod affinity lets you constrain [[Pod]]s to only launch on [[Worker Node]]s that meet particular requirements.
