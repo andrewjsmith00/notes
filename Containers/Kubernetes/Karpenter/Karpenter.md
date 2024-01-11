@@ -1,0 +1,1 @@
+Karpenter is an open-source autoscaling tool built for [[Kubernetes]]. It is designed to provide the right compute resources to match an applications needs faster by observing aggregate resource requests of unschedulable [[Pod]]s and launching or terminating nodes to minimise scheduling latencies

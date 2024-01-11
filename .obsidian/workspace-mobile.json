@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Kubernetes/Untitled.md",
+                "file": "Containers/Kubernetes/Karpenter/Karpenter.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers/Kubernetes/Untitled.md",
+            "file": "Containers/Kubernetes/Karpenter/Karpenter.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +109,10 @@
   },
   "active": "afbdd52ebc1a1fe0",
   "lastOpenFiles": [
+    "Containers/Kubernetes/Pause Pods.md",
+    "Containers/Kubernetes/Karpenter/Karpenter.md",
+    "Containers/Kubernetes/Kubernetes Cluster Autoscaler.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Pod Affinity.md",
-    "Containers/Kubernetes/Untitled.md",
     "Containers/EKS/Managed Node Group.md",
     "Containers/EKS/EBS CSI Driver.md",
     "Containers/Kubernetes/Storage/Container Storage Interface.md",
@@ -137,8 +139,6 @@
     "Compute/HPC/Slurm/Slurm Database Usage.md",
     "Compute/HPC/Slurm/Slurm.md",
     "Compute/HPC/Slurm/Slurm Job Execution Sequence.md",
-    "Compute/HPC/Slurm/slurmstepd.md",
-    "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",

@@ -1,0 +1,3 @@
+Pause Pods are [[Pod]]s that are designed to run with a negative [[Pod Priority]] on the cluster. This is done to overprovision a cluster that is using autoscaling. When there are enough Pause Pods pending, the cluster provisions new [[Worker Node]]s to schedule the pods. When any real workload comes along it has a higher priority than the Pause Pods, causing them to be evicted and allowing the new workloads to run.
+
+The advantage of doing this is due to the extra capacity, the real workload scheduling is faster as there is not a need to wait for the new [[Worker Node]]s to be provisioned as it happens beforehand.
