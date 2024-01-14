@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Kubernetes/Karpenter/Karpenter.md",
+                "file": "Definitions/Backward Pass.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Containers/Kubernetes/Karpenter/Karpenter.md",
+            "file": "Definitions/Backward Pass.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +109,10 @@
   },
   "active": "afbdd52ebc1a1fe0",
   "lastOpenFiles": [
-    "Containers/Kubernetes/Pause Pods.md",
+    "Definitions/Forward Pass.md",
+    "Definitions/Backward Pass.md",
     "Containers/Kubernetes/Karpenter/Karpenter.md",
+    "Containers/Kubernetes/Pause Pods.md",
     "Containers/Kubernetes/Kubernetes Cluster Autoscaler.md",
     "Containers/Kubernetes/Basic Kubernetes Concepts/Pod Affinity.md",
     "Containers/EKS/Managed Node Group.md",
@@ -137,8 +139,6 @@
     "Compute/HPC/Slurm/MUNGE.md",
     "Compute/HPC/Slurm/Slurm Configuration.md",
     "Compute/HPC/Slurm/Slurm Database Usage.md",
-    "Compute/HPC/Slurm/Slurm.md",
-    "Compute/HPC/Slurm/Slurm Job Execution Sequence.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",

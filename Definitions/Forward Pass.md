@@ -1,0 +1,1 @@
+Where input data is passed forward through a [[Neural Networks]]. This propagates the input data through the network to produce outputs from the network. This is used for both training and prediction.

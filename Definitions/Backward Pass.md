@@ -1,0 +1,1 @@
+Also known as back propagation. This is where the weights and biases are updated during training.
