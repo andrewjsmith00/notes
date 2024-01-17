@@ -11,7 +11,7 @@
             "id": "d4e9b85f20763274",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -104,6 +104,8 @@
   },
   "active": "d4e9b85f20763274",
   "lastOpenFiles": [
+    "Containers/ECS/ECS.md",
+    "Containers/ECS",
     "Definitions/Backward Pass.md",
     "Definitions/Forward Pass.md",
     "Containers/Kubernetes/Karpenter/Karpenter.md",
@@ -133,12 +135,10 @@
     "Machine Learning/Modeling/Sigmoid Function.md",
     "Compute/HPC/Slurm/MUNGE.md",
     "Compute/HPC/Slurm/Slurm Configuration.md",
-    "Compute/HPC/Slurm/Slurm Database Usage.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",
     "Migration",
-    "Networking/Route 53",
-    "Networking/DNS"
+    "Networking/Route 53"
   ]
 }
