@@ -105,6 +105,7 @@
   "active": "d4e9b85f20763274",
   "lastOpenFiles": [
     "Containers/ECS/ECS.md",
+    "Containers/ECS/Fargate.md",
     "Containers/ECS",
     "Definitions/Backward Pass.md",
     "Definitions/Forward Pass.md",
@@ -134,7 +135,6 @@
     "Machine Learning/Modeling/Activation Functions.md",
     "Machine Learning/Modeling/Sigmoid Function.md",
     "Compute/HPC/Slurm/MUNGE.md",
-    "Compute/HPC/Slurm/Slurm Configuration.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",

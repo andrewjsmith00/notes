@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1095ae3523ae29e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -130,7 +143,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd359bc7b7898afc",
+  "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
     "Machine Learning/Modeling/Sigmoid Function.md",
     "Machine Learning/Modeling/Softmax Function.md",

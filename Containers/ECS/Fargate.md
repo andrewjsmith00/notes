@@ -1,0 +1,1 @@
+Fargate is a serverless capacity provider for [[ECS]] and [[EKS]]. It basically only requires caring about the number of CPU and memory similar to [[Lambda]]. It runs on [[Firecracker]].
