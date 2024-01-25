@@ -23,9 +23,11 @@
             "id": "d1095ae3523ae29e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Compute/HPC/Oreilly Book.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Modeling/Softmax Function.md",
+                "file": "Compute/HPC/Oreilly Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +147,7 @@
   },
   "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
+    "Compute/HPC/Oreilly Book.md",
     "Machine Learning/Modeling/Sigmoid Function.md",
     "Machine Learning/Modeling/Softmax Function.md",
     "Machine Learning/Modeling/Activation Functions.md",
@@ -175,7 +178,6 @@
     "Storage/Glacier/Glacier Vault Lock.md",
     "Storage/S3/Object Lock and Glacier Vault Lock.md",
     "Storage/Glacier/Glacier.md",
-    "Software Development/Rust/Variable Scope.md",
     "Software Development/Rust",
     "Software Development",
     "Developer Tools/CodeSuite",
