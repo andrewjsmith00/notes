@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Oreilly Book.md",
+                "file": "Financial/Financial Returns.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compute/HPC/Oreilly Book.md",
+                "file": "Financial/Financial Returns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,11 @@
   },
   "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
+    "Financial/Volatility.md",
+    "Financial/Financial Returns.md",
+    "Financial/Financial Risk.md",
     "Compute/HPC/Oreilly Book.md",
+    "Financial",
     "Machine Learning/Modeling/Sigmoid Function.md",
     "Machine Learning/Modeling/Softmax Function.md",
     "Machine Learning/Modeling/Activation Functions.md",
@@ -175,14 +179,10 @@
     "Storage/EFS",
     "Storage",
     "Compute/EC2/EBS Snapshots.md",
-    "Storage/Glacier/Glacier Vault Lock.md",
-    "Storage/S3/Object Lock and Glacier Vault Lock.md",
-    "Storage/Glacier/Glacier.md",
     "Software Development/Rust",
     "Software Development",
     "Developer Tools/CodeSuite",
     "Developer Tools",
-    "DevOps/CI-CD",
     "Attachments/Screenshot 2023-04-24 at 6.51.40 pm.png",
     "Untitled.canvas"
   ]

@@ -1,0 +1,1 @@
+The square of the [[Standard Deviation]] of an investment. The higher the volatility, the riskier the investment.
