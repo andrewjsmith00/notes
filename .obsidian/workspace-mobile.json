@@ -11,8 +11,12 @@
             "id": "d4e9b85f20763274",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compute/HPC/Slurm/slurmdbd.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,6 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Compute/HPC/Slurm/slurmdbd.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,8 +107,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d4e9b85f20763274",
+  "active": "ba6732f08b661940",
   "lastOpenFiles": [
+    "Compute/HPC/Slurm/slurmd.md",
+    "Compute/HPC/Slurm/slurmctld.md",
+    "Compute/HPC/Oreilly Book.md",
     "Containers/ECS/ECS.md",
     "Containers/ECS/Fargate.md",
     "Containers/ECS",
@@ -132,9 +140,6 @@
     "Containers/Kubernetes/Karpenter",
     "Containers/EKS",
     "Machine Learning/Modeling/Softmax Function.md",
-    "Machine Learning/Modeling/Activation Functions.md",
-    "Machine Learning/Modeling/Sigmoid Function.md",
-    "Compute/HPC/Slurm/MUNGE.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",
