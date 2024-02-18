@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d16f2c12b0a26cc",
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Modeling/Softmax Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +141,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d1095ae3523ae29e",
+  "active": "dd8794db8d5b4c8b",
   "lastOpenFiles": [
+    "Financial/Fama-French 5-Factor Model.md",
+    "Financial/Fama-French 3-Factor Model.md",
+    "Financial/Capital Asset Pricing Model.md",
+    "Financial/Excess Returns.md",
+    "Financial/Risk Free Rate.md",
     "Financial/Markowitz Portfolios.md",
     "Financial/Correlation and Co-Variance.md",
     "Financial/Market Cap.md",
@@ -167,11 +172,6 @@
     "Security, Identity, & Compliance/GuardDuty.md",
     "Security, Identity, & Compliance/Firewall Manager.md",
     "Security, Identity, & Compliance/AWS Network Firewall.md",
-    "Security, Identity, & Compliance/AD Connector.md",
-    "Security, Identity, & Compliance/WAF.md",
-    "Security, Identity, & Compliance/Security Hub.md",
-    "Software Development/Rust/Rust Memory Safety.md",
-    "Storage/FSx/FSx for Windows File Server.md",
     "Storage/FSx",
     "Storage/EFS",
     "Storage",

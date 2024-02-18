@@ -1,0 +1,1 @@
+The risk free rate is the interest rate that can be expected on an investment with zero [[Financial Risk]]. This is typically measured as the interest paid on a 10-year government treasury note.
