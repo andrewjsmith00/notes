@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial/Financial Returns.md",
+                "file": "Financial/Markowitz Portfolios.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial/Financial Returns.md",
+                "file": "Financial/Markowitz Portfolios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +147,12 @@
   },
   "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
-    "Financial/Volatility.md",
+    "Financial/Markowitz Portfolios.md",
+    "Financial/Correlation and Co-Variance.md",
+    "Financial/Market Cap.md",
+    "Financial/Weighted Portfolio Returns.md",
     "Financial/Financial Returns.md",
+    "Financial/Volatility.md",
     "Financial/Financial Risk.md",
     "Compute/HPC/Oreilly Book.md",
     "Financial",
@@ -172,13 +176,9 @@
     "Security, Identity, & Compliance/Security Hub.md",
     "Software Development/Rust/Rust Memory Safety.md",
     "Storage/FSx/FSx for Windows File Server.md",
-    "Storage/FSx/FSx for Lustre.md",
-    "Storage/FSx/FSx.md",
     "Storage/FSx",
-    "Storage/EFS/EFS.md",
     "Storage/EFS",
     "Storage",
-    "Compute/EC2/EBS Snapshots.md",
     "Software Development/Rust",
     "Software Development",
     "Developer Tools/CodeSuite",

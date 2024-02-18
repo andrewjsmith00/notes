@@ -1,0 +1,1 @@
+These are the [[Max Sharpe Ratio]] portfolio and the [[Global Minimum Volatility]] portfolio
