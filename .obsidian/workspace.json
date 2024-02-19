@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Rust/Rust.md",
+                "file": "Machine Learning/PyTorch/Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Rust/Rust.md",
+                "file": "Machine Learning/PyTorch/Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dd8794db8d5b4c8b",
+  "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
+    "Machine Learning/PyTorch/Handling Images with PyTorch.md",
+    "Machine Learning/PyTorch/Convolutional Neural Networks.md",
+    "Software Development/Rust/Rust.md",
     "Software Development/Rust/Ownership.md",
     "Software Development/Rust/References and Borrowing.md",
     "Compute/HPC/Parallel and High Performance Computing.md",
@@ -158,11 +161,8 @@
     "Containers/Kubernetes/Basic Kubernetes Concepts/Containers and Pods.md",
     "Compute/HPC/Slurm/Slurm Database Usage.md",
     "Compute/EC2/EBS.md",
-    "Machine Learning/Data Visualisation/Relationships.md",
     "Untitled",
     "AWS",
-    "Security, Identity, & Compliance/AWS Shield.md",
-    "Security, Identity, & Compliance/GuardDuty.md",
     "Storage/FSx",
     "Storage/EFS",
     "Storage",
