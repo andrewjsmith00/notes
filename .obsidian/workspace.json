@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Parallel and High Performance Computing.md",
+                "file": "Software Development/Rust/Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compute/HPC/Parallel and High Performance Computing.md",
+                "file": "Software Development/Rust/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +134,9 @@
   },
   "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
+    "Software Development/Rust/Ownership.md",
+    "Software Development/Rust/References and Borrowing.md",
+    "Compute/HPC/Parallel and High Performance Computing.md",
     "Machine Learning/Modeling/Softmax Function.md",
     "Financial/Fama-French 5-Factor Model.md",
     "Financial/Fama-French 3-Factor Model.md",
@@ -147,7 +150,6 @@
     "Financial/Financial Returns.md",
     "Financial/Volatility.md",
     "Financial/Financial Risk.md",
-    "Compute/HPC/Parallel and High Performance Computing.md",
     "Financial",
     "Machine Learning/Modeling/Sigmoid Function.md",
     "Machine Learning/Modeling/Activation Functions.md",
@@ -161,8 +163,6 @@
     "AWS",
     "Security, Identity, & Compliance/AWS Shield.md",
     "Security, Identity, & Compliance/GuardDuty.md",
-    "Security, Identity, & Compliance/Firewall Manager.md",
-    "Security, Identity, & Compliance/AWS Network Firewall.md",
     "Storage/FSx",
     "Storage/EFS",
     "Storage",
