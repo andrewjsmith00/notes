@@ -1,0 +1,1 @@
+A Monte-Carlo Simulation is where you simulate many [[Random Walk]]s and combine them to have a distribution of outcomes. These outcomes are then analysed to get the result.

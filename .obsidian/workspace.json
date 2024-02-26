@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/PyTorch/Convolutional Neural Networks.md",
+                "file": "Financial/Monte-Carlo Simulation in Finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/PyTorch/Convolutional Neural Networks.md",
+                "file": "Financial/Monte-Carlo Simulation in Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,8 +133,16 @@
   },
   "active": "d1095ae3523ae29e",
   "lastOpenFiles": [
-    "Machine Learning/PyTorch/Handling Images with PyTorch.md",
+    "Definitions/Monte-Carlo Simulation.md",
+    "Financial/Monte-Carlo Simulation in Finance.md",
+    "Definitions/Random Walk.md",
+    "Financial/Value at Risk.md",
+    "Financial/Conditional Value at Risk.md",
+    "Financial/Volatility.md",
+    "Financial/Historical Drawdown.md",
+    "Financial/Tail Risk.md",
     "Machine Learning/PyTorch/Convolutional Neural Networks.md",
+    "Machine Learning/PyTorch/Handling Images with PyTorch.md",
     "Software Development/Rust/Rust.md",
     "Software Development/Rust/Ownership.md",
     "Software Development/Rust/References and Borrowing.md",
@@ -151,16 +158,8 @@
     "Financial/Market Cap.md",
     "Financial/Weighted Portfolio Returns.md",
     "Financial/Financial Returns.md",
-    "Financial/Volatility.md",
     "Financial/Financial Risk.md",
     "Financial",
-    "Machine Learning/Modeling/Sigmoid Function.md",
-    "Machine Learning/Modeling/Activation Functions.md",
-    "Machine Learning/PyTorch/PyTorch Gradients.md",
-    "Machine Learning/PyTorch/PyTorch.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Containers and Pods.md",
-    "Compute/HPC/Slurm/Slurm Database Usage.md",
-    "Compute/EC2/EBS.md",
     "Untitled",
     "AWS",
     "Storage/FSx",

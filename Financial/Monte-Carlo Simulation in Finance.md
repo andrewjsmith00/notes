@@ -1,0 +1,1 @@
+A [[Monte-Carlo Simulation]] in Finance is where you simulate a number of random stock movements. You can then use this to calculate the [[Value at Risk]] and/or [[Conditional Value at Risk]].
