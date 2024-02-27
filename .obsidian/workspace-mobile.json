@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5cca0780e46c054",
+        "id": "2ee915816ea531fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e9b85f20763274",
+            "id": "e0ce20d8a5bc4d3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/HPC/Slurm/slurmdbd.md",
+                "file": "Statistics/Sampling Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Compute/HPC/Slurm/slurmdbd.md",
+            "file": "Statistics/Sampling Distribution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,8 +107,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba6732f08b661940",
+  "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
+    "Compute/HPC/Slurm/slurmdbd.md",
+    "Statistics/Sampling Distribution.md",
+    "Financial/Market Cap.md",
+    "Financial/Weighted Portfolio Returns.md",
+    "Financial/Markowitz Portfolios.md",
+    "Financial/Fama-French 5-Factor Model.md",
+    "Financial/Volatility.md",
+    "Financial/Financial Returns.md",
+    "Financial/Fama-French 3-Factor Model.md",
+    "Financial/Correlation and Co-Variance.md",
+    "Financial/Value at Risk.md",
+    "Definitions/Monte-Carlo Simulation.md",
+    "Machine Learning/PyTorch/Convolutional Neural Networks.md",
+    "Financial/Risk Free Rate.md",
+    "Financial/Monte-Carlo Simulation in Finance.md",
+    "Financial/Historical Drawdown.md",
+    "Software Development/Rust/References and Borrowing.md",
+    "Definitions/Random Walk.md",
     "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm/slurmctld.md",
     "Compute/HPC/Oreilly Book.md",
@@ -118,28 +136,10 @@
     "Definitions/Backward Pass.md",
     "Definitions/Forward Pass.md",
     "Containers/Kubernetes/Karpenter/Karpenter.md",
-    "Containers/Kubernetes/Pause Pods.md",
-    "Containers/Kubernetes/Kubernetes Cluster Autoscaler.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Pod Affinity.md",
-    "Containers/EKS/Managed Node Group.md",
-    "Containers/EKS/EBS CSI Driver.md",
-    "Containers/Kubernetes/Storage/Container Storage Interface.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/StatefulSet.md",
-    "Containers/Kubernetes/Storage/Persistent Volume.md",
-    "Containers/Kubernetes/Storage/Ephemeral Volume.md",
-    "Containers/Kubernetes/Storage/Volume.md",
-    "Containers/Kubernetes/Kubernetes Ingress.md",
     "Containers/Kubernetes/Storage",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/DNS Resolution in Kubernetes.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Networking in Kubernetes.md",
-    "Containers/EKS/AWS Load Balancer Controller.md",
     "Containers/Kubernetes/Kustomize",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Service.md",
-    "Containers/Kubernetes/Basic Kubernetes Concepts/Deployment.md",
-    "Containers/EKS/EKS.md",
     "Containers/Kubernetes/Karpenter",
     "Containers/EKS",
-    "Machine Learning/Modeling/Softmax Function.md",
     "Compute/HPC/Slurm",
     "Compute/HPC",
     "Architecting Software",
