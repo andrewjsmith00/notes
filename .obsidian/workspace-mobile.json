@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Central Limit Theorem.md",
+                "file": "Statistics/Bootstrap Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -84,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statistics/Central Limit Theorem.md",
+            "file": "Statistics/Bootstrap Distribution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +111,10 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
-    "Statistics/Sampling Distribution.md",
     "Statistics/Central Limit Theorem.md",
+    "Statistics/Bootstrap Distribution.md",
+    "Financial/Modern Portfolio Theory.md",
+    "Statistics/Sampling Distribution.md",
     "Compute/HPC/Slurm/slurmdbd.md",
     "Financial/Market Cap.md",
     "Financial/Weighted Portfolio Returns.md",
@@ -134,8 +138,6 @@
     "Containers/ECS/ECS.md",
     "Containers/ECS/Fargate.md",
     "Containers/ECS",
-    "Definitions/Backward Pass.md",
-    "Definitions/Forward Pass.md",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
     "Containers/Kubernetes/Karpenter",
