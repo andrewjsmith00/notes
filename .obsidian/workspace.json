@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "288782671c5d1379",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +142,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d1095ae3523ae29e",
+  "active": "288782671c5d1379",
   "lastOpenFiles": [
     "Definitions/Monte-Carlo Simulation.md",
     "Financial/Monte-Carlo Simulation in Finance.md",

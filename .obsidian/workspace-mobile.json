@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Sampling Distribution.md",
+                "file": "Statistics/Central Limit Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statistics/Sampling Distribution.md",
+            "file": "Statistics/Central Limit Theorem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,8 +109,9 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
-    "Compute/HPC/Slurm/slurmdbd.md",
     "Statistics/Sampling Distribution.md",
+    "Statistics/Central Limit Theorem.md",
+    "Compute/HPC/Slurm/slurmdbd.md",
     "Financial/Market Cap.md",
     "Financial/Weighted Portfolio Returns.md",
     "Financial/Markowitz Portfolios.md",
@@ -135,7 +136,6 @@
     "Containers/ECS",
     "Definitions/Backward Pass.md",
     "Definitions/Forward Pass.md",
-    "Containers/Kubernetes/Karpenter/Karpenter.md",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
     "Containers/Kubernetes/Karpenter",
