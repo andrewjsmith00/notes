@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial/Modern Portfolio Theory.md",
+                "file": "Financial/Portfolio Hedging.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial/Modern Portfolio Theory.md",
+                "file": "Financial/Portfolio Hedging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
   "active": "288782671c5d1379",
   "lastOpenFiles": [
     "Financial/Modern Portfolio Theory.md",
+    "Financial/Portfolio Hedging.md",
     "Definitions/Monte-Carlo Simulation.md",
     "Financial/Monte-Carlo Simulation in Finance.md",
     "Definitions/Random Walk.md",
@@ -171,7 +172,6 @@
     "Financial/Correlation and Co-Variance.md",
     "Financial/Market Cap.md",
     "Financial/Weighted Portfolio Returns.md",
-    "Financial/Financial Returns.md",
     "Financial",
     "Untitled",
     "AWS",
