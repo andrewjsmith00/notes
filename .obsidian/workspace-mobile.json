@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Bootstrap Distribution.md",
+                "file": "Statistics/Confidence Interval.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statistics/Bootstrap Distribution.md",
+            "file": "Statistics/Confidence Interval.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,8 +111,9 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
-    "Statistics/Central Limit Theorem.md",
     "Statistics/Bootstrap Distribution.md",
+    "Statistics/Confidence Interval.md",
+    "Statistics/Central Limit Theorem.md",
     "Financial/Modern Portfolio Theory.md",
     "Statistics/Sampling Distribution.md",
     "Compute/HPC/Slurm/slurmdbd.md",
@@ -136,7 +137,6 @@
     "Compute/HPC/Slurm/slurmctld.md",
     "Compute/HPC/Oreilly Book.md",
     "Containers/ECS/ECS.md",
-    "Containers/ECS/Fargate.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
