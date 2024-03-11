@@ -111,6 +111,7 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
+    "Financial/Portfolio Hedging.md",
     "Statistics/Bootstrap Distribution.md",
     "Statistics/Confidence Interval.md",
     "Statistics/Central Limit Theorem.md",
@@ -136,7 +137,6 @@
     "Compute/HPC/Slurm/slurmd.md",
     "Compute/HPC/Slurm/slurmctld.md",
     "Compute/HPC/Oreilly Book.md",
-    "Containers/ECS/ECS.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",

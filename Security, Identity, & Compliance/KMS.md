@@ -1,0 +1,1 @@
+KMS is a managed encryption key service. It manages the root of trust and is integrated with many AWS services.
