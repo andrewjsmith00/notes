@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Confidence Interval.md",
+                "file": "Statistics/p-value.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statistics/Confidence Interval.md",
+            "file": "Statistics/p-value.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,9 +111,11 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
+    "Statistics/z-score.md",
+    "Statistics/p-value.md",
+    "Statistics/Confidence Interval.md",
     "Financial/Portfolio Hedging.md",
     "Statistics/Bootstrap Distribution.md",
-    "Statistics/Confidence Interval.md",
     "Statistics/Central Limit Theorem.md",
     "Financial/Modern Portfolio Theory.md",
     "Statistics/Sampling Distribution.md",
@@ -135,8 +137,6 @@
     "Software Development/Rust/References and Borrowing.md",
     "Definitions/Random Walk.md",
     "Compute/HPC/Slurm/slurmd.md",
-    "Compute/HPC/Slurm/slurmctld.md",
-    "Compute/HPC/Oreilly Book.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
