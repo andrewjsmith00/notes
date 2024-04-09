@@ -1,0 +1,3 @@
+There are occasions where you need to calculate the difference between two populations that may have a relation (ie. the number of voters for a particular party in an election). You can calculate a [[t-score]] that takes into account the relation between populations. This is called a Paired t-test.
+
+The paired t-test uses the first parameter as the difference between the two populations and the second to be the null statistic (ie 0).
