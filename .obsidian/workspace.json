@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial/Portfolio Hedging.md",
+                "file": "Machine Learning/PyTorch/Recurrent Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial/Portfolio Hedging.md",
+                "file": "Machine Learning/PyTorch/Recurrent Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +147,15 @@
   },
   "active": "288782671c5d1379",
   "lastOpenFiles": [
-    "Financial/Modern Portfolio Theory.md",
+    "Machine Learning/PyTorch/Recurrent Neural Networks.md",
+    "Databases/RDS/RDS.md",
+    "Compute/HPC/Slurm/slurmctld.md",
+    "Security, Identity, & Compliance/CloudHSM.md",
+    "Statistics/Probability Distributions/Binomial Distribution.md",
+    "Migration/DataSync.md",
+    "Security, Identity, & Compliance/KMS.md",
     "Financial/Portfolio Hedging.md",
+    "Financial/Modern Portfolio Theory.md",
     "Definitions/Monte-Carlo Simulation.md",
     "Financial/Monte-Carlo Simulation in Finance.md",
     "Definitions/Random Walk.md",
@@ -165,13 +173,6 @@
     "Machine Learning/Modeling/Softmax Function.md",
     "Financial/Fama-French 5-Factor Model.md",
     "Financial/Fama-French 3-Factor Model.md",
-    "Financial/Capital Asset Pricing Model.md",
-    "Financial/Excess Returns.md",
-    "Financial/Risk Free Rate.md",
-    "Financial/Markowitz Portfolios.md",
-    "Financial/Correlation and Co-Variance.md",
-    "Financial/Market Cap.md",
-    "Financial/Weighted Portfolio Returns.md",
     "Financial",
     "Untitled",
     "AWS",
