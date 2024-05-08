@@ -1,0 +1,1 @@
+Hierarchical Clustering is a form of [[Unsupervised Learning]] where we create hierarchies out of our data. This is done by creating a cluster for each data item and then we merge the two closest clusters until there is only one cluster left. The order of merges is our hierarchy.
