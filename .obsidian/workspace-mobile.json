@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Tree-Based Models/Tree-Based Models.md",
+                "file": "Machine Learning/Ensembling.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/Tree-Based Models/Tree-Based Models.md",
+            "file": "Machine Learning/Ensembling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,8 +111,9 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
-    "Statistics/Hierarchical Clustering.md",
     "Machine Learning/Tree-Based Models/Tree-Based Models.md",
+    "Machine Learning/Ensembling.md",
+    "Statistics/Hierarchical Clustering.md",
     "Machine Learning/Tree-Based Models",
     "Statistics/Paired t-test.md",
     "Statistics/t-score.md",
@@ -137,7 +138,6 @@
     "Definitions/Monte-Carlo Simulation.md",
     "Machine Learning/PyTorch/Convolutional Neural Networks.md",
     "Financial/Risk Free Rate.md",
-    "Financial/Monte-Carlo Simulation in Finance.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
