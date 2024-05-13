@@ -1,0 +1,1 @@
+Tree based models are a type of [[Machine Learning]] model that are able to perform classification and regression based on a decision tree. The model learns thresholds that are used to determine the decision for a particular feature in a decision tree.
