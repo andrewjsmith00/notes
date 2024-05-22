@@ -1,0 +1,1 @@
+Rare word removal is a [[Natural Language Processing]] technique which is used to remove words that rarely appear in the text. In order to do this, we have to count the number of occurrences of a word using something like [[FreqDist]] from [[NLTK]] and then filter the dataset.

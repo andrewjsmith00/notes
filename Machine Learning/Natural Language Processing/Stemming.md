@@ -1,0 +1,1 @@
+Stemming is a [[Natural Language Processing]] technique which involves converting words into their base format to simplify text. This changes works like `books` to `book` and `ran`, `running` to `run`.

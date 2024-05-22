@@ -1,0 +1,1 @@
+Stop word removal is a technique in [[Natural Language Processing]] where we remove common stop words with little meaning (like `a`, `the`) from our text

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Ensembling.md",
+                "file": "Machine Learning/Data Preparation/TF-IDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tf-",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "efe9c8c629ad4d38",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/Ensembling.md",
+            "file": "Machine Learning/Data Preparation/TF-IDF.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,8 +111,15 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
-    "Machine Learning/Tree-Based Models/Tree-Based Models.md",
+    "Machine Learning/Natural Language Processing/Bag-of-words.md",
+    "Machine Learning/Natural Language Processing/One-Hot Encoding in Text.md",
+    "Machine Learning/Natural Language Processing/Rare word removal.md",
+    "Machine Learning/Natural Language Processing/Stemming.md",
+    "Machine Learning/Natural Language Processing/Stop word Removal.md",
+    "Machine Learning/Natural Language Processing/Tokenisation.md",
+    "Machine Learning/Natural Language Processing/Tokens.md",
     "Machine Learning/Ensembling.md",
+    "Machine Learning/Tree-Based Models/Tree-Based Models.md",
     "Statistics/Hierarchical Clustering.md",
     "Machine Learning/Tree-Based Models",
     "Statistics/Paired t-test.md",
@@ -131,13 +138,6 @@
     "Financial/Markowitz Portfolios.md",
     "Financial/Fama-French 5-Factor Model.md",
     "Financial/Volatility.md",
-    "Financial/Financial Returns.md",
-    "Financial/Fama-French 3-Factor Model.md",
-    "Financial/Correlation and Co-Variance.md",
-    "Financial/Value at Risk.md",
-    "Definitions/Monte-Carlo Simulation.md",
-    "Machine Learning/PyTorch/Convolutional Neural Networks.md",
-    "Financial/Risk Free Rate.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
