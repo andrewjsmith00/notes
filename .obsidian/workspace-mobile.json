@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Data Preparation/TF-IDF.md",
+                "file": "Machine Learning/Natural Language Processing/Generative Adversarial Networks in Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tf-",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "efe9c8c629ad4d38",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/Data Preparation/TF-IDF.md",
+            "file": "Machine Learning/Natural Language Processing/Generative Adversarial Networks in Text.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,6 +111,10 @@
   },
   "active": "e0ce20d8a5bc4d3b",
   "lastOpenFiles": [
+    "Machine Learning/Modeling/Generative Adversarial Networks.md",
+    "Machine Learning/Natural Language Processing/Generative Adversarial Networks in Text.md",
+    "Machine Learning/Natural Language Processing/Text Generation.md",
+    "Machine Learning/Data Preparation/TF-IDF.md",
     "Machine Learning/Natural Language Processing/Bag-of-words.md",
     "Machine Learning/Natural Language Processing/One-Hot Encoding in Text.md",
     "Machine Learning/Natural Language Processing/Rare word removal.md",
@@ -134,10 +138,6 @@
     "Statistics/Sampling Distribution.md",
     "Compute/HPC/Slurm/slurmdbd.md",
     "Financial/Market Cap.md",
-    "Financial/Weighted Portfolio Returns.md",
-    "Financial/Markowitz Portfolios.md",
-    "Financial/Fama-French 5-Factor Model.md",
-    "Financial/Volatility.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
