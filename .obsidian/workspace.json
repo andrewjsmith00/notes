@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "871fe0bcc4bd2d55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +155,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "288782671c5d1379",
+  "active": "871fe0bcc4bd2d55",
   "lastOpenFiles": [
     "Machine Learning/PyTorch/Recurrent Neural Networks.md",
     "Databases/RDS/RDS.md",
