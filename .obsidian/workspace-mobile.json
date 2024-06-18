@@ -11,8 +11,12 @@
             "id": "cb5f00873bb0c3f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Security, Identity, & Compliance/AWS Network Firewall.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Security, Identity, & Compliance/AWS Network Firewall.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,12 @@
   },
   "active": "cb5f00873bb0c3f0",
   "lastOpenFiles": [
+    "Security, Identity, & Compliance/AD Connector.md",
+    "Definitions/Recovery Time Objective.md",
+    "Definitions/Recovery Point Objective.md",
+    "Networking/Route 53/Using Route 53 in a hybrid network.md",
+    "Networking/Route 53/Route 53.md",
+    "Networking/AWS Global Infrastructure.md",
     "Machine Learning/Natural Language Processing/Generative Adversarial Networks in Text.md",
     "Machine Learning/Modeling/Generative Adversarial Networks.md",
     "Machine Learning/Natural Language Processing/Text Generation.md",
@@ -127,12 +138,6 @@
     "Statistics/z-score.md",
     "Statistics/Confidence Interval.md",
     "Financial/Portfolio Hedging.md",
-    "Statistics/Bootstrap Distribution.md",
-    "Statistics/Central Limit Theorem.md",
-    "Financial/Modern Portfolio Theory.md",
-    "Statistics/Sampling Distribution.md",
-    "Compute/HPC/Slurm/slurmdbd.md",
-    "Financial/Market Cap.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
