@@ -11,8 +11,12 @@
             "id": "930869cc5e5a7635",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Utilities/What is Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Development/Utilities/What is Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,9 @@
   },
   "active": "930869cc5e5a7635",
   "lastOpenFiles": [
+    "cvs.drawio.png",
+    "Software Development/Utilities/What is Git.md",
+    "Software Development/Utilities",
     "Compute/HPC/Resource manager.md",
     "Financial/Monte-Carlo Simulation in Finance.md",
     "Machine Learning/PyTorch/Recurrent Neural Networks.md",
@@ -153,8 +161,6 @@
     "Software Development/Rust/Ownership.md",
     "Software Development/Rust/References and Borrowing.md",
     "Compute/HPC/Parallel and High Performance Computing.md",
-    "Machine Learning/Modeling/Softmax Function.md",
-    "Financial/Fama-French 5-Factor Model.md",
     "Financial",
     "Untitled",
     "AWS",
@@ -164,7 +170,6 @@
     "Software Development/Rust",
     "Software Development",
     "Developer Tools/CodeSuite",
-    "Developer Tools",
     "Attachments/Screenshot 2023-04-24 at 6.51.40 pm.png",
     "Untitled.canvas"
   ]
