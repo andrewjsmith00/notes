@@ -1,0 +1,1 @@
+Risk is a measure of uncertainty. It is essentially the variance of financial returns. 
