@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/MLOps/MLflow Tracking.md",
+                "file": "Machine Learning/Generative AI/Model Invocation Parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Machine Learning/MLOps/MLflow Tracking.md",
+            "file": "Machine Learning/Generative AI/Model Invocation Parameters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,8 +123,15 @@
   },
   "active": "fb4e2270934da32b",
   "lastOpenFiles": [
-    "Machine Learning/MLOps/MLflow Experiments.md",
+    "Machine Learning/Generative AI/Bedrock Agents.md",
+    "Machine Learning/Generative AI/Model Invocation Parameters.md",
+    "Machine Learning/Generative AI/Bedrock Agent Prompt Templates.md",
+    "Machine Learning/Generative AI/Methods of Retrieval Augmented Generation in AWS.md",
+    "Machine Learning/Bedrock/Untitled.md",
     "Machine Learning/MLOps/MLflow Tracking.md",
+    "Machine Learning/Bedrock",
+    "Machine Learning/Generative AI",
+    "Machine Learning/MLOps/MLflow Experiments.md",
     "Machine Learning/MLOps/MLflow.md",
     "Machine Learning/MLOps/Untitled",
     "Machine Learning/MLOps",
@@ -146,18 +153,11 @@
     "Machine Learning/Natural Language Processing/Stop word Removal.md",
     "Machine Learning/Natural Language Processing/Tokenisation.md",
     "Machine Learning/Natural Language Processing/Tokens.md",
-    "Machine Learning/Ensembling.md",
-    "Machine Learning/Tree-Based Models/Tree-Based Models.md",
-    "Statistics/Hierarchical Clustering.md",
     "Machine Learning/Tree-Based Models",
-    "Statistics/Paired t-test.md",
-    "Statistics/t-score.md",
     "Containers/ECS",
     "Containers/Kubernetes/Storage",
     "Containers/Kubernetes/Kustomize",
     "Containers/Kubernetes/Karpenter",
-    "Containers/EKS",
-    "Compute/HPC/Slurm",
-    "Compute/HPC"
+    "Containers/EKS"
   ]
 }
