@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4574d743528edafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Declarative Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management and Governance/Terraform.md",
+                "file": "Software Development/Declarative Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +145,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a2b78fe1a09bc871",
+  "active": "4574d743528edafe",
   "lastOpenFiles": [
     "Management and Governance/Terraform.md",
+    "Software Development/Declarative Language.md",
     "cvs.drawio.png",
     "Software Development/Utilities/What is Git.md",
     "dvcs.drawio.png",
@@ -162,7 +176,6 @@
     "Software Development/Rust/Rust.md",
     "Software Development/Rust/Ownership.md",
     "Software Development/Rust/References and Borrowing.md",
-    "Compute/HPC/Parallel and High Performance Computing.md",
     "Financial",
     "Untitled",
     "AWS",

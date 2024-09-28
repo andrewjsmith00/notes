@@ -1,0 +1,1 @@
+Declarative Languages allow you to define your desired end state where it is then up to the system to determine how to get there.
