@@ -1,0 +1,1 @@
+A ConfigMap is a way you can provide files, environment variables or command line arguments in [[Kubernetes]]. This helps to improve application portability.

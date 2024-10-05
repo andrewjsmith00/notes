@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Declarative Language.md",
+                "file": "Containers/Kubernetes/Kubernetes Secrets.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Declarative Language.md",
+                "file": "Containers/Kubernetes/Kubernetes Secrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +147,12 @@
   },
   "active": "4574d743528edafe",
   "lastOpenFiles": [
-    "Management and Governance/Terraform.md",
+    "Containers/Kubernetes/ConfigMap.md",
+    "Containers/Kubernetes/Kubernetes Secrets.md",
+    "Containers/Kubernetes/Kubernetes Job.md",
+    "Containers/Kubernetes/Basic Kubernetes Concepts/Deployment.md",
     "Software Development/Declarative Language.md",
+    "Management and Governance/Terraform.md",
     "cvs.drawio.png",
     "Software Development/Utilities/What is Git.md",
     "dvcs.drawio.png",
@@ -172,10 +176,6 @@
     "Financial/Historical Drawdown.md",
     "Financial/Tail Risk.md",
     "Machine Learning/PyTorch/Convolutional Neural Networks.md",
-    "Machine Learning/PyTorch/Handling Images with PyTorch.md",
-    "Software Development/Rust/Rust.md",
-    "Software Development/Rust/Ownership.md",
-    "Software Development/Rust/References and Borrowing.md",
     "Financial",
     "Untitled",
     "AWS",

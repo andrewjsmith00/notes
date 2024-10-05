@@ -1,0 +1,1 @@
+A Job in [[Kubernetes]] is a way of running containers in [[Pod]]s where they are short-lived. Once the container exits successfully, the Pod is spun down.
